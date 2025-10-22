@@ -79,6 +79,7 @@ def get_json(json_data):
 
 is_less= False
 cur_markdown_num=0
+limit_markdown_num=15
 limit_load_num=15*7
 for i in range(3):
     # deliver = processor.database_operations("SELECT COUNT(*) AS today_count FROM job_deliver WHERE DATE(created_at) = CURDATE();")[0][0]
@@ -183,6 +184,9 @@ for i in range(3):
 
         if recruitment_link:
             cur_markdown_num+=1
+            if cur_markdown_num >= limit_markdown_num:
+                print(f"已投递{limit_markdown_num}条Markdown数据，停止生成")
+                break
             print(f"可以投递，已生成 {cur_markdown_num}条Markdown数据", recruitment_link)
         else:
             print("被过滤，原因：", job_info.get("过滤原因"))
