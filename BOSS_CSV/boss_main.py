@@ -25,7 +25,7 @@ page.listen.start("job/detail.json")
 # url=build_boss_url("宜昌", query="java", experience="应届生,经验不限,1年以内,1-3年")
 # url=build_boss_url("宜昌", query="java", experience="应届生,经验不限,1年以内,1-3年")
 # url=build_boss_url("全国", query="java线上面试", experience="在校生,应届生,经验不限,1年以内,1-3年")
-url=build_boss_url("宜昌", query="后端", experience="应届生,经验不限,1年以内,1-3年")
+url=build_boss_url("武汉", query="java", experience="应届生,经验不限,1年以内,1-3年")
 
 # url=build_boss_url("天津", query="java", experience="应届生,经验不限,1年以内,1-3年")
 # url=build_boss_url("成都", query="qt", experience="应届生")
@@ -78,7 +78,8 @@ def get_json(json_data):
 
 
 is_less= False
-
+cur_markdown_num=0
+limit_load_num=15*7
 for i in range(3):
     # deliver = processor.database_operations("SELECT COUNT(*) AS today_count FROM job_deliver WHERE DATE(created_at) = CURDATE();")[0][0]
     # 使用计数方法
@@ -112,8 +113,8 @@ for i in range(3):
 
         previous_count = current_length
 
-        if current_length >= 100:
-            print("已加载到100个职位，停止滚动")
+        if current_length >= limit_load_num:
+            print(f"已加载到{limit_load_num}，停止滚动")
             break
             # 在相应位置添加当前位置和总职位数的显示
 
@@ -181,7 +182,8 @@ for i in range(3):
         recruitment_link = boss_filter(job_info)
 
         if recruitment_link:
-            print("可以投递，已生成 Markdown：", recruitment_link)
+            cur_markdown_num+=1
+            print(f"可以投递，已生成 {cur_markdown_num}条Markdown数据", recruitment_link)
         else:
             print("被过滤，原因：", job_info.get("过滤原因"))
 

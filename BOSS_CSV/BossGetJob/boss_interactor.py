@@ -34,7 +34,7 @@ def send_message_to_hr(page: ChromiumPage, bot: AiTool, url: str, desc: str, int
         if not btn_start_chat:
             print("未找到开始聊天按钮")
             return False
-        btn_start_chat.click()
+        # btn_start_chat.click()
 
         try:
             # 查找确定按钮，如果存在则处理提示框
@@ -51,6 +51,8 @@ def send_message_to_hr(page: ChromiumPage, bot: AiTool, url: str, desc: str, int
         except Exception as e:
             print(f"处理提示框时出错: {e}")
             pass
+
+
 
 
 
