@@ -4,7 +4,7 @@ import pandas as pd
 import os
 from typing import Dict, Any, List, Optional, Union
 from datetime import datetime
-
+from typing import Optional, Collection
 
 class CSVJsonProcessor:
     def __init__(self, csv_folder_path: str):
@@ -281,6 +281,63 @@ class CSVJsonProcessor:
         self._write_csv(table_name, df)
         print(f"已更新 {mask.sum()} 行，追加字段：{list(new_fields.keys())}")
         return True
+
+    def delete_empty_rows(
+            self,
+            table_name: str,
+            field: str,
+            empty_vals: Optional[Collection[str]] = None,
+            strip: bool = True
+    ) -> int:
+        """
+        删除指定字段为“空”的所有记录。
+        通用：可用于任何字段，不限于 AI结果。
+
+        :param table_name: 表名（不含 .csv）
+        :param field: 要检查的字段名
+        :param empty_vals: 额外视为“空”的字符串集合，如 {"待分析","暂无"}
+        :param strip: 是否先 strip 再比较（默认 True）
+        :return: 实际删除的行数
+        """
+        if not self._table_exists(table_name):
+            print(f"删除失败：CSV 文件 '{table_name}.csv' 不存在")
+            return 0
+
+        df = self._read_csv(table_name)
+
+        # 字段不存在 → 整张表都视为空
+        if field not in df.columns:
+            print(f"字段 '{field}' 不存在，视为全部为空")
+            confirm = input(f"警告：即将删除 '{table_name}.csv' 全部数据，确认请输入 'YES': ")
+            if confirm != 'YES':
+                print("操作已取消")
+                return 0
+            deleted = len(df)
+            df = df.iloc[:0]  # 清空
+        else:
+            # 构造空值掩码
+            mask = df[field].isna()
+            if strip:
+                mask |= df[field].astype(str).str.strip().eq('')
+            else:
+                mask |= df[field].astype(str).eq('')
+
+            if empty_vals:  # 用户自定义空值
+                if strip:
+                    mask |= df[field].astype(str).str.strip().isin(empty_vals)
+                else:
+                    mask |= df[field].astype(str).isin(empty_vals)
+
+            deleted = mask.sum()
+            df = df[~mask].reset_index(drop=True)
+
+        # 重新生成连续 id（可选）
+        if 'id' in df.columns and not df.empty:
+            df['id'] = range(1, len(df) + 1)
+
+        self._write_csv(table_name, df)
+        print(f"成功删除 {deleted} 条记录")
+        return deleted
 
 
 

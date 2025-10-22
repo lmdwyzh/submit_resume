@@ -14,7 +14,7 @@ def send_message_to_hr(page: ChromiumPage, bot: AiTool, url: str, desc: str, int
     # processor.process_json("count_get_job", sample_json, unique_field="招聘链接")
     data = processor.query_columns("job_deliver",["AI结果"],conditions={"招聘链接": url})
     # print( data)
-    if data:
+    if data and len(data)>2:
         print("已经投递过")
         return False
     # print(data)
@@ -34,7 +34,7 @@ def send_message_to_hr(page: ChromiumPage, bot: AiTool, url: str, desc: str, int
         if not btn_start_chat:
             print("未找到开始聊天按钮")
             return False
-        # btn_start_chat.click()
+        btn_start_chat.click()
 
         try:
             # 查找确定按钮，如果存在则处理提示框

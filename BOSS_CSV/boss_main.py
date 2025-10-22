@@ -82,19 +82,16 @@ cur_markdown_num=0
 limit_markdown_num=15
 limit_load_num=15*7
 for i in range(3):
-    # deliver = processor.database_operations("SELECT COUNT(*) AS today_count FROM job_deliver WHERE DATE(created_at) = CURDATE();")[0][0]
-    # 使用计数方法
-    deliver = processor.count_records("job_deliver", {"created_at": datetime.now().strftime('%Y-%m-%d')})
-    print("今日已经投递" + str(deliver))
     success=extract_job_descriptions_and_urls()
-    if success and success == '今天已经达到上限':
-        print("今天已经达到上限")
-        break
     start_index = 0
     page.get(url)
+
     # 在滚动循环中添加更完善的检测逻辑
     previous_count = 0
     stable_count = 0
+    if cur_markdown_num >= limit_markdown_num:
+        print(f"已投递{limit_markdown_num}条Markdown数据，停止生成")
+        continue
     for j in range(10):
         # print()
         page.scroll.to_bottom()
@@ -115,7 +112,7 @@ for i in range(3):
         previous_count = current_length
 
         if current_length >= limit_load_num:
-            print(f"已加载到{limit_load_num}，停止滚动")
+            print(f"已加载{limit_load_num}条数据，停止滚动")
             break
             # 在相应位置添加当前位置和总职位数的显示
 
@@ -136,8 +133,7 @@ for i in range(3):
 
 
 
-    if deliver >= 150:
-        break
+
     total_jobs = len(job_list_divs)  # 获取总职位数
     for job_div in job_list_divs[start_index:]:
         current_position = job_list_divs.index(job_div) + 1  # 获取当前位置（从1开始）
