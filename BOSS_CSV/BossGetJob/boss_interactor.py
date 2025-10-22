@@ -14,7 +14,7 @@ def send_message_to_hr(page: ChromiumPage, bot: AiTool, url: str, desc: str, int
     # processor.process_json("count_get_job", sample_json, unique_field="招聘链接")
     data = processor.query_columns("job_deliver",["AI结果"],conditions={"招聘链接": url})
     # print( data)
-    if data and len(data)>2:
+    if data:
         print("已经投递过")
         return False
     # print(data)
@@ -90,7 +90,7 @@ def send_message_to_hr(page: ChromiumPage, bot: AiTool, url: str, desc: str, int
                 "AI结果": ai_result
             }
             processor.update_row_append_fields("job_deliver", {"招聘链接": url}, sample_json)
-            print(91)
+
             return True
         else:
             print("岗位不匹配，跳过发送消息")

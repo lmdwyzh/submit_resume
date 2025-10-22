@@ -193,7 +193,8 @@ class CSVJsonProcessor:
 
         # 转换为返回格式
         if len(available_columns) == 1:
-            return result_df[available_columns[0]].tolist()
+            values = result_df[available_columns[0]].dropna().tolist()
+            return [None if pd.isna(v) else v for v in values]
         else:
             return result_df.to_dict('records')
 
@@ -279,7 +280,7 @@ class CSVJsonProcessor:
             df.loc[mask, field] = value
 
         self._write_csv(table_name, df)
-        print(f"已更新 {mask.sum()} 行，追加字段：{list(new_fields.keys())}")
+        # print(f"已更新 {mask.sum()} 行，追加字段：{list(new_fields.keys())}")
         return True
 
     def delete_empty_rows(
