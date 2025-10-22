@@ -112,7 +112,7 @@ class ToolCategory:
         resp = requests.post(URL, json=payload, timeout=10)
         # print("HTTP 状态码:", resp.status_code)
         # print("响应内容:", json.dumps(resp.json(), ensure_ascii=False, indent=2))
-        # print("响应内容:", json.dumps(resp.json(), ensure_ascii=False, indent=2)
+        # print("响应内容:", json.dumps(resp.json(), ensure_ascii=False, indent=2
 
 
 
