@@ -3,8 +3,8 @@ import time
 from DrissionPage import ChromiumPage
 from DrissionPage._functions.keys import Keys
 
-from Game_assistance.ToolCategory.AiTool import AiTool
-from Game_assistance.ToolCategory.CSVJsonProcessor import CSVJsonProcessor
+from ToolCategory.AiTool import AiTool
+from ToolCategory.CSVJsonProcessor import CSVJsonProcessor
 
 
 

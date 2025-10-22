@@ -1,4 +1,4 @@
-from Game_assistance.ToolCategory.MysqlTool import MySQLJsonProcessor
+from ToolCategory.MysqlTool import MySQLJsonProcessor
 
 
 def parse_salary(salary_str):

@@ -1,11 +1,11 @@
 # boss_main.py
 from DrissionPage._pages.chromium_page import ChromiumPage
 
-from Game_assistance.BOSS_CSV.BossGetJob.boss_interactor import send_message_to_hr
-from Game_assistance.BOSS_CSV.BossGetJob.job_parser import read_jobs_file, extract_job_blocks, parse_job_block
-from Game_assistance.BOSS_CSV.BossGetJob.content_generator import get_introduction, get_prompt_template
-from Game_assistance.ToolCategory.AiTool import AiTool
-from Game_assistance.ToolCategory.ToolCategory import ToolCategory
+from BOSS_CSV.BossGetJob.boss_interactor import send_message_to_hr
+from BOSS_CSV.BossGetJob.job_parser import read_jobs_file, extract_job_blocks, parse_job_block
+from BOSS_CSV.BossGetJob.content_generator import get_introduction, get_prompt_template
+from ToolCategory.AiTool import AiTool
+from ToolCategory.ToolCategory import ToolCategory
 
 def extract_job_descriptions_and_urls():
     """主函数：提取职位描述和URL并发送消息"""
