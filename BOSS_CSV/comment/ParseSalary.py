@@ -1,4 +1,4 @@
-from ToolCategory.MysqlTool import MySQLJsonProcessor
+
 
 
 def parse_salary(salary_str):
@@ -76,12 +76,5 @@ if __name__ == '__main__':
         "invalid"
     ]
 
-    processor = MySQLJsonProcessor()
-    result=processor.query_data_columns("job_postings",["薪资范围"])
-    print( result)
 
 
-    for test in result:
-        min_sal, max_sal =parse_salary(test)
-
-        print(f"'{test}' -> 最低: {min_sal}, 最高: {max_sal}")

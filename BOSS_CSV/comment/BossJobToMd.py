@@ -9,7 +9,7 @@ def generate_random_filename():
 
 def boss_job_to_md(job_info):
     # 指定文档路径
-    doc_path = r"C:\Users\lmdwy\Desktop\Folder\Projects\PycharmProjects\Sheayoo\Game_assistance\BOSS_CSV\resources\jobs.md"
+    doc_path = r"./resources/jobs.md"
     os.makedirs(os.path.dirname(doc_path), exist_ok=True)
     # 检查链接是否已存在
     if os.path.exists(doc_path):

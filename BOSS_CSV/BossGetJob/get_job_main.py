@@ -12,7 +12,7 @@ def extract_job_descriptions_and_urls():
     page = ChromiumPage()
     bot = AiTool()
 
-    content = read_jobs_file(r"C:\Users\lmdwy\Desktop\Folder\Projects\PycharmProjects\Sheayoo\Game_assistance\BOSS_CSV\resources\jobs.md"
+    content = read_jobs_file(r"./resources/jobs.md"
 )
     blocks = extract_job_blocks(content)
     introduce = get_introduction()
@@ -48,7 +48,7 @@ def extract_job_descriptions_and_urls():
         print('-' * 80)
 
     tool_category = ToolCategory()
-    tool_category.clear_file_content(r"C:\Users\lmdwy\Desktop\Folder\Projects\PycharmProjects\Sheayoo\Game_assistance\BOSS_CSV\resources\jobs.md")
+    tool_category.clear_file_content(r"./resources/jobs.md")
     return True
 
 

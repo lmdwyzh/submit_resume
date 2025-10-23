@@ -79,10 +79,12 @@ def get_json(json_data):
 
 is_less= False
 cur_markdown_num=0
-limit_markdown_num=15
+limit_markdown_num=20
 limit_load_num=15*7
 for i in range(3):
+
     success=extract_job_descriptions_and_urls()
+
     start_index = 0
     page.get(url)
 
