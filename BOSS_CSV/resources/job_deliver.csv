@@ -1,13 +1,13 @@
-﻿BOSS活跃,职位,薪资范围,最低薪资,最高薪资,工作年限要求,招聘链接,学历要求,工作地点,公司名称,公司规模,公司行业,福利,职位要求技能,职位描述,id,created_at,AI结果
-刚刚活跃,java开发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/ffd0979c808fa9ed03Ry2dW6FVNS.html,本科,宜昌,长亮科技,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, SpringCloud, MySQL, Spring","任职要求:
+﻿id,BOSS活跃,职位,薪资范围,最低薪资,最高薪资,工作年限要求,招聘链接,学历要求,工作地点,公司名称,公司规模,公司行业,福利,职位要求技能,职位描述,created_at,AI结果
+1,刚刚活跃,java开发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/ffd0979c808fa9ed03Ry2dW6FVNS.html,本科,宜昌,长亮科技,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, SpringCloud, MySQL, Spring","任职要求:
 1.统招本科及以上学历，2023届起，计算机软件相关专业，有银行经验优先，有催收、贷后相关开发经验优先或有银行金融工作背景优先。
 2.编程基本功扎实、深入理解面向对象、设计模式，领域驱动设计，有较强的学习能力。
 3  1年以上JAVA开发经验，精通Spring Boot，熟悉JVM原理和调优
 4.热练学握Spring家族生态圈技术堆栈，包括但不限于Spring BootSpring Cloud,Spring Security、Spring Data
 5.熟练学握docker、kubernetes等容器技术，熟练学握redis、kafka、zookeeper、es等开源技术
 6.熟悉Linux操作系统和常用命令
-7.熟悉oracle.Mysgl. tdsgl数据",1,2025-10-09 09:48:45,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、Docker、Linux、MySQL、Git等技术，熟悉Spring Cloud Alibaba生态，了解Nacos、Gateway、Sentinel等。我对设计模式有实际应用经验，具备良好的学习能力。岗位要求的Spring Boot、Docker、Redis、Linux等技术我均有实际使用经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发工程师,6-8K,6000,8000,1-3年,https://www.zhipin.com/job_detail/4828ecb7a084ef051XFy2t21FltW.html,大专,武汉,优狐云力,20-99人,互联网,福利信息未提供,"Java, Spring, MyBatis","特别提醒：【本岗位是急招，不在武汉及未出学校不能尽快入职的勿投！】
+7.熟悉oracle.Mysgl. tdsgl数据",2025-10-09 09:48:45,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、Docker、Linux、MySQL、Git等技术，熟悉Spring Cloud Alibaba生态，了解Nacos、Gateway、Sentinel等。我对设计模式有实际应用经验，具备良好的学习能力。岗位要求的Spring Boot、Docker、Redis、Linux等技术我均有实际使用经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+2,刚刚活跃,java开发工程师,6-8K,6000,8000,1-3年,https://www.zhipin.com/job_detail/4828ecb7a084ef051XFy2t21FltW.html,大专,武汉,优狐云力,20-99人,互联网,福利信息未提供,"Java, Spring, MyBatis","特别提醒：【本岗位是急招，不在武汉及未出学校不能尽快入职的勿投！】
 
 岗位要求：
 1、软件开发相关专业，具有一年以上实际java开发经验；
@@ -19,8 +19,8 @@
 7、良好的团队意识和沟通表达能力；
 8、技术栈
 springboot + mybatis + mybatisplus + elementui
-springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring MVC、MyBatis、MyBatis-Plus、Spring Boot、MySQL、Redis、Docker、Git、Vue3、Element-UI等技术，熟悉分布式、多线程、缓存等高性能开发技术。我了解前端技术，包括HTML、CSS、JS，能够配合前后端开发。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,初级java开发工程师,5-6K,5000,6000,1-3年,https://www.zhipin.com/job_detail/d29562c9084cbdc403J62NS-EFVT.html,大专,武汉,重交数智,0-20人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 微服务经验, MySQL, Redis, SQL Server, Oracle, 后端工程师, ERP开发经验, 计算机/软件工程相关经验, Python","岗位职责：
+springmvc + mybatis + mybatisplus + layui",2025-10-22 15:34:54,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring MVC、MyBatis、MyBatis-Plus、Spring Boot、MySQL、Redis、Docker、Git、Vue3、Element-UI等技术，熟悉分布式、多线程、缓存等高性能开发技术。我了解前端技术，包括HTML、CSS、JS，能够配合前后端开发。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+3,刚刚活跃,初级java开发工程师,5-6K,5000,6000,1-3年,https://www.zhipin.com/job_detail/d29562c9084cbdc403J62NS-EFVT.html,大专,武汉,重交数智,0-20人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 微服务经验, MySQL, Redis, SQL Server, Oracle, 后端工程师, ERP开发经验, 计算机/软件工程相关经验, Python","岗位职责：
 1.根据开发进度和任务分配，完成相关模块软件的设计，开发，编程任务；
 2.配合产品经理，技术经理完成相关任务目标。
 3.参与完成项目中各类开发文档，保证阶段交付件的质量；
@@ -33,8 +33,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 5.熟练使用第三方中间件，例如：Redis,MQ等组件；
 6.熟悉Liunx系统，熟悉SVN,GIT等代码管理工具，熟悉Maven等项目工具；
 7.有良好的编码习惯，遵守团队开发规范和代码规范；
-8.工作积极主动，责任心强，具备一点的抗压能力；",3,2025-10-22 15:35:04,您好，我目前有一年多的工作经验。我掌握Spring、SpringMVC、SpringBoot、SpringCloud、MyBatis-Plus等开发框架，熟悉MySQL数据库设计与优化，了解Redis缓存与分布式锁，能够使用Git进行代码管理，具备Linux系统操作能力。我对Node.js有初步了解，愿意深入学习。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java工程师,5-8K,5000,8000,1-3年,https://www.zhipin.com/job_detail/1cb099f49a9ae6a303V-2dy9GFFU.html,大专,武汉,新海健康,20-99人,医疗健康,福利信息未提供,"Java, 大数据经验, 不接受居家办公, MySQL, Spring","岗位职责：
+8.工作积极主动，责任心强，具备一点的抗压能力；",2025-10-22 15:35:04,您好，我目前有一年多的工作经验。我掌握Spring、SpringMVC、SpringBoot、SpringCloud、MyBatis-Plus等开发框架，熟悉MySQL数据库设计与优化，了解Redis缓存与分布式锁，能够使用Git进行代码管理，具备Linux系统操作能力。我对Node.js有初步了解，愿意深入学习。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+4,刚刚活跃,java工程师,5-8K,5000,8000,1-3年,https://www.zhipin.com/job_detail/1cb099f49a9ae6a303V-2dy9GFFU.html,大专,武汉,新海健康,20-99人,医疗健康,福利信息未提供,"Java, 大数据经验, 不接受居家办公, MySQL, Spring","岗位职责：
 1、根据分配项目组，与前端和其它业务后台的接口设计，实现对接和部署上线；
 2、根据应用需求完成架构和模块设计、编码、测试工作。
 3、相关开发文档的整理与编写。
@@ -47,8 +47,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 5. 熟练使用 Maven、Git 等开发构建工具，熟悉 linux 基本命令
 6. 能够独立完成数据库设计以及模块框架设计
 7. 自学习能力强，能较快的掌握新知识; 具备良好的学习能力、沟通能力，注重团队合作，有责任心，能够承受一定压力；
-8. 热爱技术，对Java后端技术发展有强烈的兴趣，有良好的自学能力和强烈的责任心；",4,2025-10-22 15:35:07,您好，我目前有一年多的工作经验。我掌握 JavaSE、Spring、Spring Boot、MyBatis、Redis、RabbitMQ、Maven、Git、Linux 基本命令等技术，熟悉数据库设计与模块开发，具备良好的编码习惯和团队协作能力。我了解过分布式事务相关技术，有学习意愿。针对岗位要求，我能够快速上手并完成接口对接与系统开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发(J14708),6-8K,6000,8000,1-3年,https://www.zhipin.com/job_detail/719fd5bdf6f3040b03x739W1E1dS.html,本科,武汉,先进数通,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, C, 微服务经验, MySQL, Spring","工作职责:
+8. 热爱技术，对Java后端技术发展有强烈的兴趣，有良好的自学能力和强烈的责任心；",2025-10-22 15:35:07,您好，我目前有一年多的工作经验。我掌握 JavaSE、Spring、Spring Boot、MyBatis、Redis、RabbitMQ、Maven、Git、Linux 基本命令等技术，熟悉数据库设计与模块开发，具备良好的编码习惯和团队协作能力。我了解过分布式事务相关技术，有学习意愿。针对岗位要求，我能够快速上手并完成接口对接与系统开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+5,刚刚活跃,java开发(J14708),6-8K,6000,8000,1-3年,https://www.zhipin.com/job_detail/719fd5bdf6f3040b03x739W1E1dS.html,本科,武汉,先进数通,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, C, 微服务经验, MySQL, Spring","工作职责:
 1.主动积累学习工作相关的技术和业务知识；
 2.计算机相关专业，有志于长期从事IT行业；1年以上经验；
 3.有较强的沟通能力和学习能力；
@@ -58,8 +58,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 2.熟悉主流数据库(oracle，DB2，mysql)、熟悉SQL、存储过程及优化方法；
 3.熟悉LINUX或UNIX等操作系统；
 4.熟悉Spring boot,Spring Cloud, SpringMvc,MyBatis等主流的开发框架，熟悉mybatis等ORM中间件
-5.掌握常用的开发工具，如idea，eclipse，maven，git，svn等",5,2025-10-22 15:35:18,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、Spring Cloud、MyBatis、MySQL、Redis、Docker、Git、Linux等技术，熟悉前后端协作与接口文档生成。我了解Oracle和DB2数据库，具备SQL优化能力。我能够熟练使用IDEA、Maven、Git等工具进行开发与协作。岗位要求的技术我基本都掌握，同时我也愿意快速学习未接触过的内容。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java,7-12K·13薪,7000,12000,1-3年,https://www.zhipin.com/job_detail/1edd79848128252a1Hdy29--EVFQ.html,本科,武汉,海昌信息,20-99人,计算机软件,福利信息未提供,"Java, 不接受居家办公, C++, MySQL, 其他, Spring, Python","JAVA全栈开发工程师：
+5.掌握常用的开发工具，如idea，eclipse，maven，git，svn等",2025-10-22 15:35:18,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、Spring Cloud、MyBatis、MySQL、Redis、Docker、Git、Linux等技术，熟悉前后端协作与接口文档生成。我了解Oracle和DB2数据库，具备SQL优化能力。我能够熟练使用IDEA、Maven、Git等工具进行开发与协作。岗位要求的技术我基本都掌握，同时我也愿意快速学习未接触过的内容。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+6,刚刚活跃,java,7-12K·13薪,7000,12000,1-3年,https://www.zhipin.com/job_detail/1edd79848128252a1Hdy29--EVFQ.html,本科,武汉,海昌信息,20-99人,计算机软件,福利信息未提供,"Java, 不接受居家办公, C++, MySQL, 其他, Spring, Python","JAVA全栈开发工程师：
 工作职责：
 1.负责软件功能实现，按时按量的完成开发任务；
 2.负责对项目提供技术支持
@@ -67,8 +67,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 任职要求：
 1.统招本科及以上学历，2年及以上JAVA开发经验
 2.具有良好的沟通能力、学习能力，具有团队合作精神，抗压能力强
-3.熟练使用SpringBoot、SpringCloud等主流框架，熟悉数据库相关知识",6,2025-10-22 15:35:29,您好，我目前有一年多的工作经验。我熟悉SpringBoot、SpringCloud等主流框架，掌握Java基础、MySQL、Redis、Docker、Git等技术，具备前后端协作能力。我对岗位要求的技术有扎实的实践经验，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java助理/实习生,4-6K,4000,6000,经验不限,https://www.zhipin.com/job_detail/6138aaecbfdfe83d03x93t-7FVtZ.html,大专,武汉,武汉颂典逸科技,0-20人,互联网,福利信息未提供,"计算机专业, Java, 大数据经验, 物联网经验, C++, 不接受居家办公, C, 云计算经验","岗位职责:
+3.熟练使用SpringBoot、SpringCloud等主流框架，熟悉数据库相关知识",2025-10-22 15:35:29,您好，我目前有一年多的工作经验。我熟悉SpringBoot、SpringCloud等主流框架，掌握Java基础、MySQL、Redis、Docker、Git等技术，具备前后端协作能力。我对岗位要求的技术有扎实的实践经验，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+7,刚刚活跃,Java助理/实习生,4-6K,4000,6000,经验不限,https://www.zhipin.com/job_detail/6138aaecbfdfe83d03x93t-7FVtZ.html,大专,武汉,武汉颂典逸科技,0-20人,互联网,福利信息未提供,"计算机专业, Java, 大数据经验, 物联网经验, C++, 不接受居家办公, C, 云计算经验","岗位职责:
 1. 协助完成日常Java开发任务
 2. 参与项目的需求分析和设计
 3. 配合团队进行代码测试和维护
@@ -79,8 +79,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 3. 对新技术有较快的学习和适应能力
 
 上班时间；9 ：30~18:30
-双休",7,2025-10-22 15:35:43,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Docker、Git、Linux 等技术，熟悉 MySQL 优化与分布式事务处理。我能够有效沟通，积极配合团队合作，具备较强的学习能力。针对该岗位要求，我具备扎实的 Java 后端开发能力，能快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-今日活跃,java初级开发工程师（接受应届生）,4-7K,4000,7000,在校/应届,https://www.zhipin.com/job_detail/58b2eb5c39da21f603d82ty7FVNW.html,大专,武汉,瓴带科技,20-99人,计算机软件,福利信息未提供,"Java, MySQL, Spring","岗位职责:
+双休",2025-10-22 15:35:43,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Docker、Git、Linux 等技术，熟悉 MySQL 优化与分布式事务处理。我能够有效沟通，积极配合团队合作，具备较强的学习能力。针对该岗位要求，我具备扎实的 Java 后端开发能力，能快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+8,今日活跃,java初级开发工程师（接受应届生）,4-7K,4000,7000,在校/应届,https://www.zhipin.com/job_detail/58b2eb5c39da21f603d82ty7FVNW.html,大专,武汉,瓴带科技,20-99人,计算机软件,福利信息未提供,"Java, MySQL, Spring","岗位职责:
 1. 负责Java应用的设计、开发和维护。
 2. 参与项目需求分析和系统设计，确保技术方案满足业务需求。
 3. 解决软件开发过程中的技术问题。
@@ -90,8 +90,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 1. 具备扎实的Java编程基础和实践经验。
 2. 熟悉Java相关开发框架和技术。
 3. 能够独立分析和解决问题。
-4. 有良好的团队合作能力和沟通技巧。",8,2025-10-22 15:35:48,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、MyBatis、MySQL、Redis、Docker、Git 等技术，熟悉分布式系统设计与开发。岗位要求的技术我基本都掌握，能够快速上手项目。我具备良好的问题解决能力和团队协作意识。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,初级Java开发工程师,4-7K,4000,7000,1-3年,https://www.zhipin.com/job_detail/1694ebc49dba3f9603F92tq_ElBW.html,本科,武汉,芸希信息科技,20-99人,计算机软件,福利信息未提供,"Java, 不接受居家办公, PostgreSQL, MySQL, PHP, Spring, Oracle, 后端开发, Python","◆ 岗位职责：
+4. 有良好的团队合作能力和沟通技巧。",2025-10-22 15:35:48,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、MyBatis、MySQL、Redis、Docker、Git 等技术，熟悉分布式系统设计与开发。岗位要求的技术我基本都掌握，能够快速上手项目。我具备良好的问题解决能力和团队协作意识。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+9,刚刚活跃,初级Java开发工程师,4-7K,4000,7000,1-3年,https://www.zhipin.com/job_detail/1694ebc49dba3f9603F92tq_ElBW.html,本科,武汉,芸希信息科技,20-99人,计算机软件,福利信息未提供,"Java, 不接受居家办公, PostgreSQL, MySQL, PHP, Spring, Oracle, 后端开发, Python","◆ 岗位职责：
 1、主要负责行内管理系统、业务系统开发维护工作；
 2、参与需求分析、系统开发、系统测试、系统上线等工作；
 3、负责公司各项目模块的迭代开发和调试；
@@ -103,8 +103,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 4、熟悉MVC架构模式和J2EE设计模式，熟悉数据库应用和设计；
 5、掌握Java和数据结构基础知识；熟悉多线程编程、分布式、缓存、消息队列中的一种或多种；
 6、逻辑思路清晰，工作认真负责，良好的团队合作精神和客户沟通交流能力，为人正直诚信、责任心强，能够主动在工作中发现和解决问题；
-7、独立自学过框架搭建或实现过完整功能模块开发的优先。",9,2025-10-22 15:35:50,您好，我目前有一年多的工作经验。我掌握Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉多线程、分布式、缓存应用，了解Spring Cloud微服务架构及相关组件。我对数据库事务、锁机制、索引优化有实际项目经验，能独立完成系统开发与维护。同时，我具备良好的沟通能力与团队协作精神，能够快速适应工作环境。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,初级Java后端开发工程师,6-7K,6000,7000,1-3年,https://www.zhipin.com/job_detail/4dc8fd575263598003x809m-ElpX.html,本科,武汉,武汉融易科技有限公司,0-20人,计算机软件,福利信息未提供,"Java, 不接受居家办公, PostgreSQL, SpringCloud, MySQL, MyBatis, Redis, Spring","1. 1~3年实际工作经验；
+7、独立自学过框架搭建或实现过完整功能模块开发的优先。",2025-10-22 15:35:50,您好，我目前有一年多的工作经验。我掌握Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉多线程、分布式、缓存应用，了解Spring Cloud微服务架构及相关组件。我对数据库事务、锁机制、索引优化有实际项目经验，能独立完成系统开发与维护。同时，我具备良好的沟通能力与团队协作精神，能够快速适应工作环境。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+10,刚刚活跃,初级Java后端开发工程师,6-7K,6000,7000,1-3年,https://www.zhipin.com/job_detail/4dc8fd575263598003x809m-ElpX.html,本科,武汉,武汉融易科技有限公司,0-20人,计算机软件,福利信息未提供,"Java, 不接受居家办公, PostgreSQL, SpringCloud, MySQL, MyBatis, Redis, Spring","1. 1~3年实际工作经验；
 2. 计算机基础扎实，了解常见的数据结构、网络和操作系统知识；
 3. 能够熟练地编写SQL，对SQL调优有了解；
 4. JAVA功底扎实，能熟练的在springboot / springcloud 框架下编写代码；
@@ -112,8 +112,8 @@ springmvc + mybatis + mybatisplus + layui",2,2025-10-22 15:34:54,您好，我目
 6. 熟悉常用的中间件，如Redis、消息队列；
 7. 熟悉常用的linux操作；
 8. 创业公司，双向选择，需要能出活的人；
-9. 有试用期，最多3个月，稳定出活提前转正；",10,2025-10-22 15:36:00,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、Spring Cloud Alibaba、MyBatis、MySQL、Redis、Docker、Git、Linux 等技术，熟悉 SQL 调优和前后端协作。我了解 Vue3 和前端接口对接，能编写 WEB 管理台代码。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发工程师,7-12K,7000,12000,1-3年,https://www.zhipin.com/job_detail/6f857d68e7e7ffa703d42Ni4FlpV.html,本科,武汉,鸥玛软件,100-499人,互联网,福利信息未提供,"Java, MyBatis, Redis","技能要求：
+9. 有试用期，最多3个月，稳定出活提前转正；",2025-10-22 15:36:00,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、Spring Cloud Alibaba、MyBatis、MySQL、Redis、Docker、Git、Linux 等技术，熟悉 SQL 调优和前后端协作。我了解 Vue3 和前端接口对接，能编写 WEB 管理台代码。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+11,刚刚活跃,java开发工程师,7-12K,7000,12000,1-3年,https://www.zhipin.com/job_detail/6f857d68e7e7ffa703d42Ni4FlpV.html,本科,武汉,鸥玛软件,100-499人,互联网,福利信息未提供,"Java, MyBatis, Redis","技能要求：
 Java，Linux，Spring，MyBatis，Eclipse
 岗位职责:
 1、负责软件产品需求分析；
@@ -132,8 +132,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 8、熟悉前端技术，掌握至少1种前端框架；
 9、掌握SpringMVC、Spring、MyBatis、spring boot等J2EE主流框架技术；
 10、熟练使用Eclipse、SVN等开发工具；
-11、英语六级、Python语言优先。",11,2025-10-22 15:36:07,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、MyBatis、Spring Boot、Redis、MySQL、Linux、Git、Eclipse等技术，熟悉前后端协作与接口调试。我了解Vue3、Element-UI等前端技术，具备实际项目开发经验。岗位要求的技能我基本掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师(J10134),6-8K·13薪,6000,8000,1-3年,https://www.zhipin.com/job_detail/df80a53bd823b7d603Zz3t27EVRT.html,本科,武汉,楚天龙,1000-9999人,电子/硬件开发,福利信息未提供,"Java, 银行项目, 智能终端, MySQL, Spring","工作职责:
+11、英语六级、Python语言优先。",2025-10-22 15:36:07,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、MyBatis、Spring Boot、Redis、MySQL、Linux、Git、Eclipse等技术，熟悉前后端协作与接口调试。我了解Vue3、Element-UI等前端技术，具备实际项目开发经验。岗位要求的技能我基本掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+12,刚刚活跃,Java开发工程师(J10134),6-8K·13薪,6000,8000,1-3年,https://www.zhipin.com/job_detail/df80a53bd823b7d603Zz3t27EVRT.html,本科,武汉,楚天龙,1000-9999人,电子/硬件开发,福利信息未提供,"Java, 银行项目, 智能终端, MySQL, Spring","工作职责:
 1.参与需求分析，编写技术设计文档，明确系统功能模块的技术实现方案；
 2.负责系统核心模块的开发、调试及优化，确保代码质量与系统性能；
 3.协助搭建开发与测试环境，解决项目开发中的技术问题；
@@ -150,8 +150,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 7.具备良好的学习能力，能快速掌握新技术并应用于项目；
 8.具备较强的逻辑思维与问题解决能力，能独立完成模块开发与调试；
 9.有良好的团队协作意识，能清晰表达技术方案与思路；
-10.能适应出差。",12,2025-10-22 15:36:08,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux等技术，熟悉微服务架构与分布式系统设计，了解Nacos、Gateway、Sentinel等组件。我对接口开发、数据库优化、系统部署有实际项目经验。岗位要求的Java后端开发技能我基本具备，能够快速上手并参与项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/93be798af28fe7611nZ_3ti8EVJV.html,本科,武汉,连邦云创科技有限公司,20-99人,计算机软件,福利信息未提供,"Maven, MySQL, 分布式技术, 多线程, 架构师, SQL Server, Spring, Oracle","岗位职责：
+10.能适应出差。",2025-10-22 15:36:08,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux等技术，熟悉微服务架构与分布式系统设计，了解Nacos、Gateway、Sentinel等组件。我对接口开发、数据库优化、系统部署有实际项目经验。岗位要求的Java后端开发技能我基本具备，能够快速上手并参与项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+13,刚刚活跃,Java工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/93be798af28fe7611nZ_3ti8EVJV.html,本科,武汉,连邦云创科技有限公司,20-99人,计算机软件,福利信息未提供,"Maven, MySQL, 分布式技术, 多线程, 架构师, SQL Server, Spring, Oracle","岗位职责：
 1、负责软件的设计与开发、单元测试、BUG解决等工作，按计划完成任务；
 2、负责按照公司的软件开发规范编写相关项目技术文档。
 3、维护优化现有应用及日常故障处理。
@@ -168,8 +168,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 
 2.周末休息一天半，法定节假日按国家标准一致放假，满足你的出行计划；
 
-4.我们有森林氧吧式的办公环境和多方面的内部/外部培训体系，可以满足你多方面的职业发展晋升，公司各类资源丰富任你使用；",13,2025-10-22 15:36:11,您好，我目前有一年多的工作经验。我掌握Java开发语言，熟练使用Spring、Spring Boot、MyBatis等框架，熟悉MySQL数据库操作及优化，了解Redis缓存技术。我具备良好的逻辑能力与团队合作精神，能够快速学习新技术。岗位要求的Java后端开发技能我基本掌握。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师（武汉校招）,8-13K,8000,13000,在校/应届,https://www.zhipin.com/job_detail/ae8d5ceb2e24ac2303x92N26E1pZ.html,本科,武汉,广通优云,500-999人,计算机软件,福利信息未提供,"Java, MySQL, MyBatis, Redis, Dubbo, Spring","岗位职责：
+4.我们有森林氧吧式的办公环境和多方面的内部/外部培训体系，可以满足你多方面的职业发展晋升，公司各类资源丰富任你使用；",2025-10-22 15:36:11,您好，我目前有一年多的工作经验。我掌握Java开发语言，熟练使用Spring、Spring Boot、MyBatis等框架，熟悉MySQL数据库操作及优化，了解Redis缓存技术。我具备良好的逻辑能力与团队合作精神，能够快速学习新技术。岗位要求的Java后端开发技能我基本掌握。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+14,刚刚活跃,Java开发工程师（武汉校招）,8-13K,8000,13000,在校/应届,https://www.zhipin.com/job_detail/ae8d5ceb2e24ac2303x92N26E1pZ.html,本科,武汉,广通优云,500-999人,计算机软件,福利信息未提供,"Java, MySQL, MyBatis, Redis, Dubbo, Spring","岗位职责：
 1.负责监控线产品后端需求开发；
 2.负责现场项目CPJF单处理，技术支持。
 
@@ -179,8 +179,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 3、熟练掌握Spring、MyBatis、Dubbo等开发框架；
 4、熟悉MySQL、Redis、ES、Kafka等组件；
 5、具备良好的沟通协调能力及责任心；
-6、该岗位为校招，谢谢配合！",14,2025-10-22 15:36:15,您好，我目前有一年多的工作经验。我掌握Java基础，熟悉IO、多线程、设计模式等技术；熟练使用Spring、MyBatis、Dubbo等开发框架；了解MySQL、Redis等组件。我对Kafka了解过，会积极学习相关技术。岗位要求的技能与我的技术栈高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/fb316aabc8f5db3403x80ty9F1NU.html,大专,武汉,深圳青鱼武汉分公司,0-20人,计算机软件,福利信息未提供,"ETL数据仓库, MySQL, SpringCloud, 微服务架构, Redis, 软件工程师, MVC开发, 后端开发","岗位职责
+6、该岗位为校招，谢谢配合！",2025-10-22 15:36:15,您好，我目前有一年多的工作经验。我掌握Java基础，熟悉IO、多线程、设计模式等技术；熟练使用Spring、MyBatis、Dubbo等开发框架；了解MySQL、Redis等组件。我对Kafka了解过，会积极学习相关技术。岗位要求的技能与我的技术栈高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+15,刚刚活跃,Java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/fb316aabc8f5db3403x80ty9F1NU.html,大专,武汉,深圳青鱼武汉分公司,0-20人,计算机软件,福利信息未提供,"ETL数据仓库, MySQL, SpringCloud, 微服务架构, Redis, 软件工程师, MVC开发, 后端开发","岗位职责
 负责核心数据业务应用系统的设计、开发和维护，基于 Spring Boot 实现高可靠、高性能的业务功能。
 主导或参与业务流程的分析、技术方案的制定，确保 Java 代码的质量和可维护性。
 负责与数据相关的接口开发和集成，包括与关系型/非关系型数据库、Elasticsearch 搜索引擎的数据交互和处理。
@@ -207,8 +207,8 @@ DevOps/容器化： 了解 CI/CD 流程，熟悉 Docker/Kubernetes 容器化部�
 代码贡献： GitHub 上有高影响力的个人项目（Star >50 或 Fork >20）。
 2. AI 与前沿技术
 RAG 与向量技术： 了解 RAG（检索增强生成）概念，熟悉向量数据库（如 Milvus/Pinecone）的基本原理。
-LLM 了解： 了解 LLM",15,2025-10-22 15:36:18,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux 等技术，熟悉微服务架构与分布式事务处理，具备良好的代码规范与文档编写能力。岗位要求的 Java 8+、Spring Boot、MySQL 调优、RESTful API 设计等技术我都具备实际应用经验。同时，我对 Elasticsearch 有了解，愿意深入学习并掌握相关技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,初级Java工程师,6-8K,6000,8000,1-3年,https://www.zhipin.com/job_detail/8045fc6b734ddb0e03x92d-9GFFR.html,本科,武汉,华信永道,500-999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 微服务经验, MySQL, Spring","岗位职责：
+LLM 了解： 了解 LLM",2025-10-22 15:36:18,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux 等技术，熟悉微服务架构与分布式事务处理，具备良好的代码规范与文档编写能力。岗位要求的 Java 8+、Spring Boot、MySQL 调优、RESTful API 设计等技术我都具备实际应用经验。同时，我对 Elasticsearch 有了解，愿意深入学习并掌握相关技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+16,刚刚活跃,初级Java工程师,6-8K,6000,8000,1-3年,https://www.zhipin.com/job_detail/8045fc6b734ddb0e03x92d-9GFFR.html,本科,武汉,华信永道,500-999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 微服务经验, MySQL, Spring","岗位职责：
 1.	根据安排，按时完成需求分析、功能设计、程序设计、数据模型设计、接口设计；
 2.	根据安排，按照需求文档、设计文档，按时完成功能开发；
 3.	完成领导交办的临时工作。
@@ -220,8 +220,8 @@ LLM 了解： 了解 LLM",15,2025-10-22 15:36:18,您好，我目前有一年多�
 5.	能够熟练使用IDEA开发工具
 6.	具备良好的沟通能力
 7.	能够根据项目安排进行出差
-8.	具备主动学习能力，且学习理解能力强",16,2025-10-22 15:36:19,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、IDEA 等技术，熟悉微服务架构与分布式事务处理。我了解 Vue3 前端开发框架，能够配合团队完成接口对接。岗位要求的 Java 开发能力与我所掌握的技术高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java助理/实习生,4-6K,4000,6000,经验不限,https://www.zhipin.com/job_detail/53de7b8dd8f3b07403x939W0EltT.html,大专,武汉,武汉颂典逸科技,0-20人,互联网,福利信息未提供,"Java, 大数据经验, 物联网经验, C++, 不接受居家办公, C, 云计算经验, Python","岗位职责:
+8.	具备主动学习能力，且学习理解能力强",2025-10-22 15:36:19,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、IDEA 等技术，熟悉微服务架构与分布式事务处理。我了解 Vue3 前端开发框架，能够配合团队完成接口对接。岗位要求的 Java 开发能力与我所掌握的技术高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+17,刚刚活跃,Java助理/实习生,4-6K,4000,6000,经验不限,https://www.zhipin.com/job_detail/53de7b8dd8f3b07403x939W0EltT.html,大专,武汉,武汉颂典逸科技,0-20人,互联网,福利信息未提供,"Java, 大数据经验, 物联网经验, C++, 不接受居家办公, C, 云计算经验, Python","岗位职责:
 1. 协助完成日常Java开发任务
 2. 参与代码的编写、测试和维护
 3. 支持团队完成项目目标
@@ -229,8 +229,8 @@ LLM 了解： 了解 LLM",15,2025-10-22 15:36:18,您好，我目前有一年多�
 任职要求：
 1. 具备良好的编程习惯和代码质量
 2. 能够有效沟通，配合团队工作
-3. 对Java技术有浓厚兴趣，愿意学习新知识",17,2025-10-22 15:45:37,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring 系列框架、MyBatis、MySQL、Redis、Docker、Git、Linux 等技术，能够独立完成后端开发与系统维护。我了解 CI/CD 流程，具备良好的编码习惯和团队协作能力。岗位要求的 Java 开发能力与我的技术栈高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师,7-12K,7000,12000,1-3年,https://www.zhipin.com/job_detail/a853f27b08ebe12a03B709y1EVpT.html,本科,武汉,鸥玛软件,100-499人,互联网,福利信息未提供,"Java, Spring","技能要求：
+3. 对Java技术有浓厚兴趣，愿意学习新知识",2025-10-22 15:45:37,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring 系列框架、MyBatis、MySQL、Redis、Docker、Git、Linux 等技术，能够独立完成后端开发与系统维护。我了解 CI/CD 流程，具备良好的编码习惯和团队协作能力。岗位要求的 Java 开发能力与我的技术栈高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+18,刚刚活跃,Java开发工程师,7-12K,7000,12000,1-3年,https://www.zhipin.com/job_detail/a853f27b08ebe12a03B709y1EVpT.html,本科,武汉,鸥玛软件,100-499人,互联网,福利信息未提供,"Java, Spring","技能要求：
 Java，Linux，Spring，MyBatis，Eclipse
 岗位职责:
 1、负责软件产品需求分析；
@@ -249,8 +249,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 8、熟悉前端技术，掌握至少1种前端框架；
 9、掌握SpringMVC、Spring、MyBatis、spring boot等J2EE主流框架技术；
 10、熟练使用Eclipse、SVN等开发工具；
-11、英语六级、Python语言优先。",18,2025-10-22 15:45:40,您好，我目前有一年多的工作经验。我掌握Java、Linux、Spring、MyBatis、Eclipse等技术，熟悉面向对象开发方法，具备实际项目开发经验，了解MySQL和前端技术，能够使用Vue3进行前后端协作。我熟悉Spring Boot、MyBatis等主流框架，能够完成软件产品设计与编码实现。岗位要求的技术我基本都掌握，同时我也愿意学习其他技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java研发工程师,8-12K·13薪,8000,12000,1-3年,https://www.zhipin.com/job_detail/c90a8911734bb7ce03F53t26FlBW.html,本科,武汉,武汉众智鸿图,100-499人,计算机软件,福利信息未提供,"Java, activity, Redis, Spring","岗位职责：
+11、英语六级、Python语言优先。",2025-10-22 15:45:40,您好，我目前有一年多的工作经验。我掌握Java、Linux、Spring、MyBatis、Eclipse等技术，熟悉面向对象开发方法，具备实际项目开发经验，了解MySQL和前端技术，能够使用Vue3进行前后端协作。我熟悉Spring Boot、MyBatis等主流框架，能够完成软件产品设计与编码实现。岗位要求的技术我基本都掌握，同时我也愿意学习其他技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+19,刚刚活跃,java研发工程师,8-12K·13薪,8000,12000,1-3年,https://www.zhipin.com/job_detail/c90a8911734bb7ce03F53t26FlBW.html,本科,武汉,武汉众智鸿图,100-499人,计算机软件,福利信息未提供,"Java, activity, Redis, Spring","岗位职责：
 1、根据需求分析业务逻辑，并进行功能设计、数据库设计和编码实现；
 2、编写功能模块涉及相关的功能设计文档、数据库文档；
 3、与前端工程师高效沟通，共同完成前后端的交互逻辑；
@@ -263,8 +263,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 3、熟练使用SpringCloud、SpringBoot、MyBatis、Redis、MongoDB、ES等常用的服务端开发框架和技术；
 4、熟悉Tomcat、Jetty等常用Web应用容器中的一种，掌握网络安全基本知识；
 5、编程思路清晰，有良好的代码编写风格；
-6、数学基础好，有相关比赛获奖经历、或实际项目开发经验者优先考虑。",19,2025-10-22 15:45:42,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Spring Cloud Alibaba、MySQL、Docker、Git 等技术，具备前后端协作与系统设计能力。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java,8-13K,8000,13000,经验不限,https://www.zhipin.com/job_detail/fb1302d43a45126703x93ti0FVNW.html,本科,武汉,南京火灿渔物联网科技,0-20人,互联网,福利信息未提供,"Java, 团队管理经验, 不接受居家办公, SpringCloud, MySQL, Redis, 架构设计经验, Spring","Java
+6、数学基础好，有相关比赛获奖经历、或实际项目开发经验者优先考虑。",2025-10-22 15:45:42,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Spring Cloud Alibaba、MySQL、Docker、Git 等技术，具备前后端协作与系统设计能力。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+20,刚刚活跃,Java,8-13K,8000,13000,经验不限,https://www.zhipin.com/job_detail/fb1302d43a45126703x93ti0FVNW.html,本科,武汉,南京火灿渔物联网科技,0-20人,互联网,福利信息未提供,"Java, 团队管理经验, 不接受居家办公, SpringCloud, MySQL, Redis, 架构设计经验, Spring","Java
 岗位职责:
 1. 负责Java相关项目的开发与维护工作
 2. 参与系统设计，确保代码质量和系统稳定性
@@ -273,8 +273,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 任职要求：
 1. 具备良好的Java编程能力，能够独立完成模块开发
 2. 具有团队合作精神，能够与团队成员有效沟通
-3. 具备较强的问题分析及解决能力，能够快速适应新环境",20,2025-10-22 15:45:46,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，具备系统开发与维护能力。我熟悉分布式系统设计，了解 Nacos、Sentinel、Seata 等相关技术，能够参与系统设计并保障代码质量。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师（武汉）,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/7a89cfa21c42f1fd1XNz29S6FlRQ.html,本科,武汉,华资软件,1000-9999人,计算机软件,福利信息未提供,"后端工程师, Java, Spring, 计算机/软件工程相关经验, Java开发经验, 分布式系统开发经验","岗位职责
+3. 具备较强的问题分析及解决能力，能够快速适应新环境",2025-10-22 15:45:46,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，具备系统开发与维护能力。我熟悉分布式系统设计，了解 Nacos、Sentinel、Seata 等相关技术，能够参与系统设计并保障代码质量。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+21,刚刚活跃,Java开发工程师（武汉）,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/7a89cfa21c42f1fd1XNz29S6FlRQ.html,本科,武汉,华资软件,1000-9999人,计算机软件,福利信息未提供,"后端工程师, Java, Spring, 计算机/软件工程相关经验, Java开发经验, 分布式系统开发经验","岗位职责
 1、负责软件项目的设计、代码走查、系统集成；
 2、负责代码编写、维护以及单元测试工作；
 3、负责应用系统开发过程产出文档的编写；
@@ -288,8 +288,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 6、熟悉常用中间件Nginx、Tomcat、WebLogic的配置和使用；
 7、熟悉web开发技术，有vue/React.js开发经验优先； 
 8、有比较强的需求分析和设计能力，能指导设计和编码工作；  
-9、工作认真负责、积极主动，具有高度的责任心和团队精神；具备承压能力。",21,2025-10-22 15:45:49,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Spring Cloud Alibaba、Redis、Docker、Git、Linux等技术，熟悉MySQL优化与分布式系统设计。我对岗位要求的Spring、MyBatis、Dubbo、Nginx等技术有实际使用经验。岗位要求的Oracle、SqlServer我了解过，愿意学习。针对岗位需求，我具备良好的开发能力和团队协作意识。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,JAVA软件开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/7765b5b65242756e1XJ739q5EFJY.html,本科,武汉,云豹科技有限公司,20-99人,互联网,福利信息未提供,"Java, 不接受居家办公, MySQL, 前端, MyBatis, 后端","薪资面议
+9、工作认真负责、积极主动，具有高度的责任心和团队精神；具备承压能力。",2025-10-22 15:45:49,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Spring Cloud Alibaba、Redis、Docker、Git、Linux等技术，熟悉MySQL优化与分布式系统设计。我对岗位要求的Spring、MyBatis、Dubbo、Nginx等技术有实际使用经验。岗位要求的Oracle、SqlServer我了解过，愿意学习。针对岗位需求，我具备良好的开发能力和团队协作意识。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+22,刚刚活跃,JAVA软件开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/7765b5b65242756e1XJ739q5EFJY.html,本科,武汉,云豹科技有限公司,20-99人,互联网,福利信息未提供,"Java, 不接受居家办公, MySQL, 前端, MyBatis, 后端","薪资面议
 1.结合业务需求持续优化线上系统，并进行规划以及负责系统需求分析、模块开发；
 2.具备扎实的 Java SE 基础 ，对集合、多线程、 I/O 等核心概念有深入理解 ，并熟练运用常见设计模式；
 3.熟练使用SpringBoot、SpringMVC、Mybatis、MybatisPlus等主流开发框架；
@@ -299,14 +299,14 @@ Java，Linux，Spring，MyBatis，Eclipse
 7.熟悉vue、echarts、jQuery、bootstrap等框架，理解其设计原理、应用特点、适用场景；
 8.熟练运用Linux操作系统、GIT等版本管理软件；
 9.拥有较强的逻辑思维能力；善于分析、归纳、解决问题；
-（带前端，带实施，薪资面议）",22,2025-10-22 15:45:50,您好，我目前有一年多的工作经验。我掌握 Java 基础、SpringBoot、MyBatis、MySQL、Redis、Docker、Git、Linux、Vue3、Element-UI 等技术，熟悉集合、多线程、设计模式等核心概念。岗位要求的 ElasticSearch 和 Echarts 我了解过，虽然未实际使用，但我具备快速学习能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,武汉Java开发工程师,6-9K·13薪,6000,9000,1-3年,https://www.zhipin.com/job_detail/8a3299ef5a249f6c1XZ73d25EFpQ.html,本科,武汉,中科软,10000人以上,计算机软件,福利信息未提供,"Unix, Linux, HTML, MVC开发, 网络协议, 后端开发, Spring, SQL","岗位职责：
+（带前端，带实施，薪资面议）",2025-10-22 15:45:50,您好，我目前有一年多的工作经验。我掌握 Java 基础、SpringBoot、MyBatis、MySQL、Redis、Docker、Git、Linux、Vue3、Element-UI 等技术，熟悉集合、多线程、设计模式等核心概念。岗位要求的 ElasticSearch 和 Echarts 我了解过，虽然未实际使用，但我具备快速学习能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+23,刚刚活跃,武汉Java开发工程师,6-9K·13薪,6000,9000,1-3年,https://www.zhipin.com/job_detail/8a3299ef5a249f6c1XZ73d25EFpQ.html,本科,武汉,中科软,10000人以上,计算机软件,福利信息未提供,"Unix, Linux, HTML, MVC开发, 网络协议, 后端开发, Spring, SQL","岗位职责：
 1：扎实掌握Java基础、jsp/servlet、js、jquery；
 2：了解spring、spring mvc、mybatis、hibernate、struts、spring boot、spring cloud基本原理和使用规则，并且能够熟练使用；
 3：具有良好的代码设计思想和开发习惯；
 4：有保险行业工作经验者优先；
-5：公立统招学信网可查本科，双证齐全，至少24年毕业",23,2025-10-22 15:45:51,您好，我目前有一年多的工作经验。我掌握Java基础、JSP/SERVLET、JS、JQUERY，熟悉Spring、Spring MVC、MyBatis、Spring Boot、Spring Cloud，了解分布式系统设计与实现，具备良好的代码习惯。我了解保险行业相关业务逻辑，有实际项目经验。我熟悉Docker、Redis、MySQL等技术，能够独立完成系统开发与部署。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发-短期项目（半年周期）,9-10K,9000,10000,1-3年,https://www.zhipin.com/job_detail/4999e3152c15d8b803x92tq5FFFZ.html,本科,武汉,软帝联合,100-499人,计算机软件,福利信息未提供,"Java, 分布式经验, 微服务经验, SpringCloud, MySQL, Spring, Oracle","工作年限​：2-3年
+5：公立统招学信网可查本科，双证齐全，至少24年毕业",2025-10-22 15:45:51,您好，我目前有一年多的工作经验。我掌握Java基础、JSP/SERVLET、JS、JQUERY，熟悉Spring、Spring MVC、MyBatis、Spring Boot、Spring Cloud，了解分布式系统设计与实现，具备良好的代码习惯。我了解保险行业相关业务逻辑，有实际项目经验。我熟悉Docker、Redis、MySQL等技术，能够独立完成系统开发与部署。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+24,刚刚活跃,java开发-短期项目（半年周期）,9-10K,9000,10000,1-3年,https://www.zhipin.com/job_detail/4999e3152c15d8b803x92tq5FFFZ.html,本科,武汉,软帝联合,100-499人,计算机软件,福利信息未提供,"Java, 分布式经验, 微服务经验, SpringCloud, MySQL, Spring, Oracle","工作年限​：2-3年
 ​  学历要求​：本科及以上（计算机科学、软件工程、电子信息等相关专业）
 ​岗位职责​
   1. 参与软件模块的设计、编码、测试与维护工作，独立完成分配的功能开发任务。
@@ -323,8 +323,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 ​综合素质​
   • 逻辑清晰，能快速理解业务需求，具备独立分析问题和解决问题的能力。
   • 良好的团队沟通能力，能主动反馈进度并协同完成跨模块任务。
-  • 学习能力强，愿意深入技术原理，在指导下逐步承担复杂开发任务",24,2025-10-22 15:47:10,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉多线程、集合、IO等核心类库，了解微服务架构和前端基础。岗位要求的技术我基本都掌握，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java研发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/6f0253a5e97e762903Z-3d-9E1ZU.html,本科,武汉,武汉众智鸿图,100-499人,计算机软件,福利信息未提供,"MES开发经验, gis, Java, 不接受居家办公, activity, SpringCloud, MyBatis, Redis, 架构设计经验, Spring","岗位职责：
+  • 学习能力强，愿意深入技术原理，在指导下逐步承担复杂开发任务",2025-10-22 15:47:10,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉多线程、集合、IO等核心类库，了解微服务架构和前端基础。岗位要求的技术我基本都掌握，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+25,刚刚活跃,java研发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/6f0253a5e97e762903Z-3d-9E1ZU.html,本科,武汉,武汉众智鸿图,100-499人,计算机软件,福利信息未提供,"MES开发经验, gis, Java, 不接受居家办公, activity, SpringCloud, MyBatis, Redis, 架构设计经验, Spring","岗位职责：
 1、根据需求分析业务逻辑，并进行功能设计、数据库设计和编码实现；
 2、编写功能模块涉及相关的功能设计文档、数据库文档；
 3、与前端工程师高效沟通，共同完成前后端的交互逻辑；
@@ -338,8 +338,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 4、熟悉Tomcat、Jetty等常用Web应用容器中的一种，掌握网络安全基本知识；
 5、编程思路清晰，有良好的代码编写风格；
 6、数学基础好，有相关比赛获奖经历、或实际项目开发经验者优先考虑。
-7、优先考虑具备GIS、activity相关开发经验；",25,2025-10-22 15:47:12,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Spring Cloud Alibaba、Docker、Git 等技术，熟悉数据库设计与优化，具备前后端协作能力。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java软件工程师,6-11K,6000,11000,1-3年,https://www.zhipin.com/job_detail/03b5d32099685fca1nJ439m5ElRT.html,大专,武汉,恒邮科技,0-20人,计算机软件,福利信息未提供,"服务器配置, 网络协议, MVC开发, Spring, Hibernate, MySQL","职位描述：
+7、优先考虑具备GIS、activity相关开发经验；",2025-10-22 15:47:12,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Spring Cloud Alibaba、Docker、Git 等技术，熟悉数据库设计与优化，具备前后端协作能力。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+26,刚刚活跃,Java软件工程师,6-11K,6000,11000,1-3年,https://www.zhipin.com/job_detail/03b5d32099685fca1nJ439m5ElRT.html,大专,武汉,恒邮科技,0-20人,计算机软件,福利信息未提供,"服务器配置, 网络协议, MVC开发, Spring, Hibernate, MySQL","职位描述：
 1、组建研发小组，负责软件系统的设计与开发；
 2、制定项目计划，安排项目任务，跟踪和执行，确保项目质量和进度；
 3、指导小组成员完成研发工作，负责项目技术公关及参与公司技术平台研发；
@@ -354,8 +354,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 5、熟悉Oracle、mysql等主流数据库；
 6、有责任心、团队协作意识，良好的沟通能力与表达能力，能承担工作压力，主动性强；
 7、熟悉团队开发过程，熟练使用开发和代码管理工具；
-8、具有较强的团队协作精神和服务意识，较强的责任心、分析解决问题的能力，沟通表达能力。",26,2025-10-22 15:47:15,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉前后端协作与接口文档生成。岗位要求的 J2EE、JSP、Servlet、Spring 框架及 Web 技术，我有实际项目应用经验。同时我了解 Tomcat 部署与配置，熟悉 Oracle 和 MySQL 数据库。我具备良好的团队协作能力与沟通表达能力，能承担工作压力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师（实习生）,3-7K,3000,7000,1年以内,https://www.zhipin.com/job_detail/06859521fa1a3dfb03V929q5FVNU.html,大专,武汉,速威智能,20-99人,汽车研发/制造,福利信息未提供,"MES开发经验, Java, C++, Hibernate, MySQL, Hadoop, Spring, ERP开发经验, Python, HBase","岗位要求
+8、具有较强的团队协作精神和服务意识，较强的责任心、分析解决问题的能力，沟通表达能力。",2025-10-22 15:47:15,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉前后端协作与接口文档生成。岗位要求的 J2EE、JSP、Servlet、Spring 框架及 Web 技术，我有实际项目应用经验。同时我了解 Tomcat 部署与配置，熟悉 Oracle 和 MySQL 数据库。我具备良好的团队协作能力与沟通表达能力，能承担工作压力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+27,刚刚活跃,Java开发工程师（实习生）,3-7K,3000,7000,1年以内,https://www.zhipin.com/job_detail/06859521fa1a3dfb03V929q5FVNU.html,大专,武汉,速威智能,20-99人,汽车研发/制造,福利信息未提供,"MES开发经验, Java, C++, Hibernate, MySQL, Hadoop, Spring, ERP开发经验, Python, HBase","岗位要求
 1、熟悉Java 或 Groovy 开发，良好的编程规范；
 2、遵守编程规范，代码清晰、有必要注释；
 3、熟悉常规开发技术框架、前端或后台开发知识优先；
@@ -364,8 +364,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 6、主动沟通与分享，注重团队精神，互助、确保整体工作效率；
 7、接受出差安排
 优秀毕业生优先
-福利：五险、午餐、弹性工作制、出差补贴、年中/终奖、项目奖金等",27,2025-10-22 15:47:17,您好，我目前有一年多的工作经验。我掌握 Java、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉后端开发流程与系统设计。岗位要求的 Java 开发能力我具备扎实的基础，能够按照规范编写清晰代码并完成项目开发。我对分布式系统有一定实践经验，了解服务拆分与治理。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java工程师(J10664),8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/a2dfdb4a98e7283903F529W6E1pV.html,本科,武汉,九恒星,100-499人,互联网,福利信息未提供,"Java, 分布式经验, 微服务经验, SpringCloud, MySQL, MyBatis, Redis, Oracle","工作职责:
+福利：五险、午餐、弹性工作制、出差补贴、年中/终奖、项目奖金等",2025-10-22 15:47:17,您好，我目前有一年多的工作经验。我掌握 Java、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉后端开发流程与系统设计。岗位要求的 Java 开发能力我具备扎实的基础，能够按照规范编写清晰代码并完成项目开发。我对分布式系统有一定实践经验，了解服务拆分与治理。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+28,刚刚活跃,Java工程师(J10664),8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/a2dfdb4a98e7283903F529W6E1pV.html,本科,武汉,九恒星,100-499人,互联网,福利信息未提供,"Java, 分布式经验, 微服务经验, SpringCloud, MySQL, MyBatis, Redis, Oracle","工作职责:
 1、编写代码，实现软件模块的功能，并遵循编码规范和最佳实践。
 2、与需求顾问、测试工程师、前端工程师等团队成员紧密合作，确保产品研发的顺利进行。
 3、编写软件设计文档、技术文档和用户手册，确保文档清晰、准确、易于理解。
@@ -377,8 +377,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 3、熟练掌握Java和相应的开发框架。
 4、具备较强的责任心和团队合作精神，能够按时完成任务并积极参与团队讨论。
 5、具备较强的学习能力和承压能力，能够快速适应新环境和新挑战。
-6、能接受一年1-3个月左右的出差，每次1-4周，主要出差西南、西北、华中东地区的一二线城市。",28,2025-10-22 15:47:20,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的团队协作能力。岗位要求的技术我基本都掌握，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发工程师,7-12K·13薪,7000,12000,1-3年,https://www.zhipin.com/job_detail/46e30a3fc4b214481H1y3t-5GFFV.html,本科,武汉,文华在线教育,100-499人,在线教育,福利信息未提供,"JVM, Java, 不接受居家办公, Docker, MySQL, MyBatis, Redis, Spring","岗位职责：
+6、能接受一年1-3个月左右的出差，每次1-4周，主要出差西南、西北、华中东地区的一二线城市。",2025-10-22 15:47:20,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的团队协作能力。岗位要求的技术我基本都掌握，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+29,刚刚活跃,java开发工程师,7-12K·13薪,7000,12000,1-3年,https://www.zhipin.com/job_detail/46e30a3fc4b214481H1y3t-5GFFV.html,本科,武汉,文华在线教育,100-499人,在线教育,福利信息未提供,"JVM, Java, 不接受居家办公, Docker, MySQL, MyBatis, Redis, Spring","岗位职责：
 1、负责优学院自研平台的开发、维护；
 2、参与需求，分析，设计，测试等方案的评审
 3、参与系统的架构设计、详细设计与核心模块编码等工作；
@@ -388,8 +388,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 2、对OOP有深刻的理解；掌握面向对象软件分析、设计方法，熟悉设计模式；
 3、熟悉Java及J2EE规范，包括JSP，Servlet，JDBC，JMS等；熟悉MVC架构模式和J2EE设计模式；
 4、了解并使用过Redis，Elasticsearch等NoSQL技术，熟悉MySQL的开发设计和调优；
-5、工作踏实、认真、严谨、敬业，具备团队精神；",29,2025-10-22 15:47:21,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、MySQL调优、Docker、Git等技术，熟悉分布式系统设计与微服务架构，了解Vue3、Element-UI等前端技术。岗位要求的Java后端开发技能我基本具备。我能够快速上手项目，具备良好的团队协作能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,JAVA开发助理/工程师,7-12K·13薪,7000,12000,1-3年,https://www.zhipin.com/job_detail/ed730d5f3e32258003x43N66FVdU.html,本科,武汉,安阳橙锐科技有限公司,20-99人,电子商务,福利信息未提供,"Java, Tomcat, SpringCloud, MySQL, Dubbo, Oracle, Python","岗位职责:
+5、工作踏实、认真、严谨、敬业，具备团队精神；",2025-10-22 15:47:21,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、MySQL调优、Docker、Git等技术，熟悉分布式系统设计与微服务架构，了解Vue3、Element-UI等前端技术。岗位要求的Java后端开发技能我基本具备。我能够快速上手项目，具备良好的团队协作能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+30,刚刚活跃,JAVA开发助理/工程师,7-12K·13薪,7000,12000,1-3年,https://www.zhipin.com/job_detail/ed730d5f3e32258003x43N66FVdU.html,本科,武汉,安阳橙锐科技有限公司,20-99人,电子商务,福利信息未提供,"Java, Tomcat, SpringCloud, MySQL, Dubbo, Oracle, Python","岗位职责:
 1. 协助进行JAVA相关开发工作
 2. 参与项目的需求分析及模块设计
 3. 与团队合作，确保代码质量和项目进度
@@ -397,8 +397,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 任职要求：
 1. 对JAVA编程有浓厚兴趣
 2. 具备良好的逻辑思维能力和问题解决能力
-3. 能够有效沟通，积极配合团队完成任务",30,2025-10-22 15:47:24,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux 等技术，能够独立完成后端开发与系统部署。我熟悉分布式系统设计，了解 Nacos、Sentinel、Seata 等微服务相关技术。对于岗位要求的 Java 开发能力，我具备扎实的实践基础。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,JAVA开发工程师,5-6K·14薪,5000,6000,在校/应届,https://www.zhipin.com/job_detail/9da8f7a8e75e394a03B82Nm7EFNW.html,本科,武汉,泛微网络,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, SpringCloud, 云计算经验, SQL Server, Spring, Oracle, ERP开发经验, Python","福利情况：
+3. 能够有效沟通，积极配合团队完成任务",2025-10-22 15:47:24,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux 等技术，能够独立完成后端开发与系统部署。我熟悉分布式系统设计，了解 Nacos、Sentinel、Seata 等微服务相关技术。对于岗位要求的 Java 开发能力，我具备扎实的实践基础。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+31,刚刚活跃,JAVA开发工程师,5-6K·14薪,5000,6000,在校/应届,https://www.zhipin.com/job_detail/9da8f7a8e75e394a03B82Nm7EFNW.html,本科,武汉,泛微网络,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, SpringCloud, 云计算经验, SQL Server, Spring, Oracle, ERP开发经验, Python","福利情况：
 1、五险一金正常缴纳，朝9晚5点半，周末双休，正常享受国家法定节假日；
 2、节假日礼品福利、生日福利；
 3、每年定期组织健康体检；
@@ -415,8 +415,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 1、统招全日制本科学历及以上，计算机相关专业。一年以上Java开发工作经验，可看背景优秀应届生。
 2、精通或熟悉http/https通信协议、Java、Spring、SpringBoot等。
 3、有ERP系统、财务系统或SaaS软件等项目经验， SAP、用友、金蝶等优先。
-4、熟悉常见API接口开发对接方案。",31,2025-10-22 15:47:39,您好，我目前有一年多的工作经验。我熟悉Java、Spring、SpringBoot等技术，具备扎实的Java基础和丰富的后端开发经验，能够独立完成项目开发与实施。我了解HTTP/HTTPS通信协议，参与过多个系统开发，具备良好的接口设计与对接能力。同时，我有ERP系统相关经验，熟悉MySQL、Redis、Docker等技术，能够高效完成系统搭建与优化。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-今日活跃,java开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/70167404cd0fff1e1nZy2d26EVpQ.html,大专,武汉,优狐云力,20-99人,互联网,福利信息未提供,"多线程, MVC开发, 消息队列, 容器技术, Spring, Oracle, MySQL","特别提醒：
+4、熟悉常见API接口开发对接方案。",2025-10-22 15:47:39,您好，我目前有一年多的工作经验。我熟悉Java、Spring、SpringBoot等技术，具备扎实的Java基础和丰富的后端开发经验，能够独立完成项目开发与实施。我了解HTTP/HTTPS通信协议，参与过多个系统开发，具备良好的接口设计与对接能力。同时，我有ERP系统相关经验，熟悉MySQL、Redis、Docker等技术，能够高效完成系统搭建与优化。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+32,今日活跃,java开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/70167404cd0fff1e1nZy2d26EVpQ.html,大专,武汉,优狐云力,20-99人,互联网,福利信息未提供,"多线程, MVC开发, 消息队列, 容器技术, Spring, Oracle, MySQL","特别提醒：
 本岗位是急招，不在武汉及未毕业或应（届）、不能尽快入职的勿投！谢谢配合！.投递前请看清技术栈要求和薪资福利待遇！
 
 一、薪资待遇：
@@ -432,8 +432,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 1、具有扎实的java基础，熟悉常用的框架spring，springMVC，Mybatis等，熟悉分布式，多线程，缓存等高性能开发技术；
 2、熟悉mysql等主流数据库开发；
 3、开过过web、app、小程序优先一定的业务需求分析能力；
-4、良好的团队意识和沟通表达能力；",32,2025-10-22 15:47:42,您好，我目前有一年多的工作经验。我掌握 SpringBoot、MyBatisPlus、ElementUI（Vue前后端分离版）、CSS、DIV、Vue 等技术，熟悉 Java 基础、Spring、MyBatis 等框架，了解分布式、多线程、缓存等高性能开发技术。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/ff82f64b84f2565f1H143NS-EltZ.html,本科,武汉,天阳科技,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 分布式经验, 微服务经验, 银行, SpringCloud, MySQL, VUE, MyBatis, 风控, Spring, 信贷","派湖北农信
+4、良好的团队意识和沟通表达能力；",2025-10-22 15:47:42,您好，我目前有一年多的工作经验。我掌握 SpringBoot、MyBatisPlus、ElementUI（Vue前后端分离版）、CSS、DIV、Vue 等技术，熟悉 Java 基础、Spring、MyBatis 等框架，了解分布式、多线程、缓存等高性能开发技术。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+33,刚刚活跃,Java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/ff82f64b84f2565f1H143NS-EltZ.html,本科,武汉,天阳科技,1000-9999人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 分布式经验, 微服务经验, 银行, SpringCloud, MySQL, VUE, MyBatis, 风控, Spring, 信贷","派湖北农信
 地址：武汉光谷金融港
 初中级JAVA开发
 
@@ -447,8 +447,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 2、Java基础扎实，熟练掌握数据结构，至少一年以上微服务实际开发经验，熟悉spring boot、spring cloud、mybatis等框架；
 3、熟悉前端开发框架VUE优先；
 4、熟悉常用开发JAVA工具IDEA，git，tomcat等；
-5、具有强烈的责任心、积极主动的沟通能力和团队协作能力；",33,2025-10-22 15:47:45,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、Spring Cloud、MyBatis 等框架，熟悉微服务开发，了解 Vue3 前端技术，能配合前后端协作。我使用 IDEA、Git、Tomcat 等工具进行开发与部署，具备良好的文档编写与团队沟通能力。岗位要求的技术我基本掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师（业务方向）,5-8K·13薪,5000,8000,经验不限,https://www.zhipin.com/job_detail/991662f4bbe2a82003Fy0tu9GVpV.html,本科,武汉,芯极客,100-499人,计算机软件,福利信息未提供,"Java, MySQL, Spring","【公司使用低代码平台进行开发】
+5、具有强烈的责任心、积极主动的沟通能力和团队协作能力；",2025-10-22 15:47:45,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、Spring Cloud、MyBatis 等框架，熟悉微服务开发，了解 Vue3 前端技术，能配合前后端协作。我使用 IDEA、Git、Tomcat 等工具进行开发与部署，具备良好的文档编写与团队沟通能力。岗位要求的技术我基本掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+34,刚刚活跃,Java开发工程师（业务方向）,5-8K·13薪,5000,8000,经验不限,https://www.zhipin.com/job_detail/991662f4bbe2a82003Fy0tu9GVpV.html,本科,武汉,芯极客,100-499人,计算机软件,福利信息未提供,"Java, MySQL, Spring","【公司使用低代码平台进行开发】
 岗位职责：
 1、独立完成产品需求对接，并负责部分业务功能开发；
 2、充分理解业务需求，能对业务进行建模设计，并实现；
@@ -462,8 +462,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 5、熟悉Redis、MQ等中间件的使用；
 6、有较强的逻辑思维和清晰的业务分析能力；
 7、学习能力强，具备较好的独立解决问题的能力，并且主观上愿意学习领域内的业务知识；
-8、工作敬业，责任心强，积极主动，善于沟通，有较好的表达能力和职业素质，有团队协作精神，能够与领导和同事融洽合作，为团队做出贡献。",34,2025-10-22 15:47:46,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、Spring Cloud、MySQL、Redis、Git等技术，熟悉业务建模与系统设计，具备良好的逻辑思维和独立解决问题的能力。我对低代码平台有了解，愿意学习相关技术并快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-3日内活跃,Java开发工程师,4-8K,4000,8000,1-3年,https://www.zhipin.com/job_detail/22fdee094340e2671HZ73Ny9F1ZU.html,大专,武汉,智慧畅享,20-99人,计算机软件,福利信息未提供,"Nginx, 大数据经验, 物联网经验, Java, 分布式经验, Docker, PostgreSQL, SpringCloud, MySQL, MyBatis, Redis, Spring","1、熟悉Java基础知识和核心类库。
+8、工作敬业，责任心强，积极主动，善于沟通，有较好的表达能力和职业素质，有团队协作精神，能够与领导和同事融洽合作，为团队做出贡献。",2025-10-22 15:47:46,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、Spring Cloud、MySQL、Redis、Git等技术，熟悉业务建模与系统设计，具备良好的逻辑思维和独立解决问题的能力。我对低代码平台有了解，愿意学习相关技术并快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+35,3日内活跃,Java开发工程师,4-8K,4000,8000,1-3年,https://www.zhipin.com/job_detail/22fdee094340e2671HZ73Ny9F1ZU.html,大专,武汉,智慧畅享,20-99人,计算机软件,福利信息未提供,"Nginx, 大数据经验, 物联网经验, Java, 分布式经验, Docker, PostgreSQL, SpringCloud, MySQL, MyBatis, Redis, Spring","1、熟悉Java基础知识和核心类库。
 2、具备良好的面向对象编程经验，熟悉常用设计模式。 
 3、熟悉使用Spring Boot、Spring Cloud等开发框架，并有相关的开发经验。 
 4、熟悉Oracle、SQLServer、Mysql等常见数据库的基本原理以及适用场景，熟悉不同种类的数据库编程，了解常见SQL调优。
@@ -473,8 +473,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 8、熟悉分布式常用技术者优先，如部署单元化，分库分表，分布式数据库，读写分离等。
 9、对多线程，并发编程，异步IO等高可用设计有熟悉者优先。
 10、责任心强，具有较强的学习能力和团队合作意识，良好的沟通能力、方案设计和撰写能力。
-11、对新技术敏感，求知欲强，能快速学习并具备较强的技术领悟能力。",35,2025-10-22 15:47:48,您好，我目前有一年多的工作经验。我掌握Java基础、面向对象设计及常用设计模式，熟悉Spring Boot、Spring Cloud Alibaba（Nacos、Gateway、Sentinel、Seata）、MyBatis-Plus等技术，具备分布式系统开发经验。我了解Oracle、SQLServer、MySQL数据库原理及SQL调优，使用过Redis作为缓存与分布式锁，熟悉Docker容器化部署。我对多线程、并发编程有一定理解，能够完成日常运维与故障排查。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,资深java开发工程师,9-14K,9000,14000,1-3年,https://www.zhipin.com/job_detail/13f140789de9592b03x-3925FlRS.html,本科,武汉,武汉杰威鑫创软件技术,0-20人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 团队管理经验, 五险一金、朝九晚五、周末双休、节假日正常, 要求统招985本科以上学历, 架构设计经验","岗位职责：
+11、对新技术敏感，求知欲强，能快速学习并具备较强的技术领悟能力。",2025-10-22 15:47:48,您好，我目前有一年多的工作经验。我掌握Java基础、面向对象设计及常用设计模式，熟悉Spring Boot、Spring Cloud Alibaba（Nacos、Gateway、Sentinel、Seata）、MyBatis-Plus等技术，具备分布式系统开发经验。我了解Oracle、SQLServer、MySQL数据库原理及SQL调优，使用过Redis作为缓存与分布式锁，熟悉Docker容器化部署。我对多线程、并发编程有一定理解，能够完成日常运维与故障排查。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+36,刚刚活跃,资深java开发工程师,9-14K,9000,14000,1-3年,https://www.zhipin.com/job_detail/13f140789de9592b03x-3925FlRS.html,本科,武汉,武汉杰威鑫创软件技术,0-20人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 团队管理经验, 五险一金、朝九晚五、周末双休、节假日正常, 要求统招985本科以上学历, 架构设计经验","岗位职责：
 1. 负责公司核心Java应用的架构设计与开发，确保系统的高性能、高可用性和可扩展性；
 2. 参与需求分析与系统设计，制定技术解决方案，优化现有系统架构；
 3. 指导初级开发人员，提升团队整体技术水平，推动技术分享与知识传承；
@@ -486,8 +486,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 2. 具备良好的面向对象编程思想，熟悉常见设计模式，有大型分布式系统开发经验；
 3. 熟悉数据库设计与优化，具备MySQL、Redis等数据库的使用和优化经验；
 4. 具有较强的责任心和团队合作精神，能够承受工作压力，具备良好的沟通能力和问题解决能力。
-5.要求统招一本以上学历！以下勿扰",36,2025-10-22 15:47:51,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、MyBatis、Redis、MySQL、Docker、Git等技术，熟悉分布式系统设计与开发，具备良好的面向对象编程思想和常用设计模式应用经验。我了解并实践过Spring Cloud Alibaba相关技术，能够参与系统架构设计与优化。在团队协作中，我注重沟通与知识分享，具备较强的责任心与问题解决能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/a70da298a1cc3c051nB82d-_GVZU.html,本科,武汉,英志,20-99人,互联网,福利信息未提供,"java, MySQL, SpringBoot, 后端开发, Oracle, javascript","1、计算机相关专业本科以上学历（统招全日制），两年以上JAVA开发工作经验；
+5.要求统招一本以上学历！以下勿扰",2025-10-22 15:47:51,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、MyBatis、Redis、MySQL、Docker、Git等技术，熟悉分布式系统设计与开发，具备良好的面向对象编程思想和常用设计模式应用经验。我了解并实践过Spring Cloud Alibaba相关技术，能够参与系统架构设计与优化。在团队协作中，我注重沟通与知识分享，具备较强的责任心与问题解决能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+37,刚刚活跃,java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/a70da298a1cc3c051nB82d-_GVZU.html,本科,武汉,英志,20-99人,互联网,福利信息未提供,"java, MySQL, SpringBoot, 后端开发, Oracle, javascript","1、计算机相关专业本科以上学历（统招全日制），两年以上JAVA开发工作经验；
 2、熟悉JAVA各种开源框架，如Spring、Hibernate、Ajax、Activiti5等；
 3、熟悉JSP, HTML, JavaScript, CSS, Ajax等技术，能运用JQuery、JQGrid等前端JS框架；
 4、熟练使用Oracle、MySQL数据库，熟练使用Oracle数据库优先；
@@ -495,8 +495,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 6、有管理类系统开发经验者的优先考虑;
 7、有较强的开发能力,具有规范的开发、设计和文档写作能力；
 8、有学习欲望，有较强的分析和解决问题的能力，有较强的沟通协调能力
-9、工作踏实、主动、有责任心，服从安排有良好的团队合作精神",37,2025-10-22 15:47:54,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring Boot、MyBatis、MySQL、Redis、Docker、Git、Linux等技术，熟悉前后端协作与接口文档生成。岗位要求的Spring、JSP、HTML、JavaScript、MySQL、Tomcat、Eclipse、SVN等技术我均有实际使用经验。了解Oracle数据库，愿意学习并掌握。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java中级开发工程师,7-9K,7000,9000,1-3年,https://www.zhipin.com/job_detail/4ebbe6ce3453354b03x839q_GVdR.html,大专,武汉,武汉幂思信息科技,20-99人,互联网,福利信息未提供,"Golang, Java, MySQL, MongoDB, Spring, Python","岗位职责:
+9、工作踏实、主动、有责任心，服从安排有良好的团队合作精神",2025-10-22 15:47:54,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring Boot、MyBatis、MySQL、Redis、Docker、Git、Linux等技术，熟悉前后端协作与接口文档生成。岗位要求的Spring、JSP、HTML、JavaScript、MySQL、Tomcat、Eclipse、SVN等技术我均有实际使用经验。了解Oracle数据库，愿意学习并掌握。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+38,刚刚活跃,java中级开发工程师,7-9K,7000,9000,1-3年,https://www.zhipin.com/job_detail/4ebbe6ce3453354b03x839q_GVdR.html,大专,武汉,武汉幂思信息科技,20-99人,互联网,福利信息未提供,"Golang, Java, MySQL, MongoDB, Spring, Python","岗位职责:
 1. 参与Java开发项目，使用Spring等开发框架进行开发。
 2. 与团队合作，完成软件的设计、开发、测试和维护。
 3. 使用Vue等前端技术与Java后端进行交互。
@@ -508,8 +508,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 2. 了解Spring等Java开发框架，有实际开发经验者优先。
 3. 能够使用Vue等前端技术与Java进行有效交互。
 4. 具备良好的问题解决能力和创新思维。
-5. 有团队合作精神，能够在压力下保持高效的工作状态。",38,2025-10-22 15:47:57,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Vue3 等技术，熟悉前后端交互与系统优化。岗位要求的 Java 开发框架和 Vue 技术我均有实际应用经验。我能够快速上手项目，具备良好的问题解决能力和团队协作意识。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java工程师（双休）,7-9K,7000,9000,经验不限,https://www.zhipin.com/job_detail/1f4534626c6a9a7403x93dS5FFJS.html,大专,武汉,人瑞网络科技,10000人以上,计算机硬件,福利信息未提供,"Java, SpringCloud, MySQL, Spring","本次招聘要求：
+5. 有团队合作精神，能够在压力下保持高效的工作状态。",2025-10-22 15:47:57,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Vue3 等技术，熟悉前后端交互与系统优化。岗位要求的 Java 开发框架和 Vue 技术我均有实际应用经验。我能够快速上手项目，具备良好的问题解决能力和团队协作意识。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+39,刚刚活跃,Java工程师（双休）,7-9K,7000,9000,经验不限,https://www.zhipin.com/job_detail/1f4534626c6a9a7403x93dS5FFJS.html,大专,武汉,人瑞网络科技,10000人以上,计算机硬件,福利信息未提供,"Java, SpringCloud, MySQL, Spring","本次招聘要求：
 一、硬性条件
 1、统招计算机、电子、通信或相关专业；
 2、2 年以上java开发经验；
@@ -523,8 +523,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 1、熟悉 Redis、RabbitMQ / Kafka 等中间件；
 四、软素质
 1、良好的沟通协作能力，具备较强的责任心；
-2、良好的代码编码能力与习惯。",39,2025-10-23 15:26:02,您好，我目前有一年多的工作经验。我掌握 Spring Boot、Spring MVC、MyBatis、MySQL 索引优化、SQL 调优、Git、Maven 等技术，熟悉 Redis 缓存与分布式锁，了解 Vue3、Element-UI 等前端技术。我了解 RabbitMQ/Kafka 中间件，具备快速学习能力。岗位要求的技术我基本掌握，部分技术我虽未深入使用，但已了解其原理。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,JAVA开发工程师,6-10K·13薪,6000,10000,经验不限,https://www.zhipin.com/job_detail/e3b2fd8d43b4ef411nZ92dW0ElVY.html,大专,武汉,麦达,20-99人,企业服务,福利信息未提供,"MySQL, 分布式技术, Redis, 初级软件工程师, Dubbo, 软件工程师, Spring, 后端开发","岗位职责：
+2、良好的代码编码能力与习惯。",2025-10-23 15:26:02,您好，我目前有一年多的工作经验。我掌握 Spring Boot、Spring MVC、MyBatis、MySQL 索引优化、SQL 调优、Git、Maven 等技术，熟悉 Redis 缓存与分布式锁，了解 Vue3、Element-UI 等前端技术。我了解 RabbitMQ/Kafka 中间件，具备快速学习能力。岗位要求的技术我基本掌握，部分技术我虽未深入使用，但已了解其原理。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+40,刚刚活跃,JAVA开发工程师,6-10K·13薪,6000,10000,经验不限,https://www.zhipin.com/job_detail/e3b2fd8d43b4ef411nZ92dW0ElVY.html,大专,武汉,麦达,20-99人,企业服务,福利信息未提供,"MySQL, 分布式技术, Redis, 初级软件工程师, Dubbo, 软件工程师, Spring, 后端开发","岗位职责：
 1.根据需求规格说明完成系统编码工作；
 2.现有系统平台的日常维护与运行技术支持工作
 3.能够充分理解系统需求，并准确的转化成技术实现；
@@ -535,8 +535,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 1. 全日制大专及以上，计算机相关专业，熟悉J2EE，JAVA开发经验；
 2. 技术栈：Spring、MySQL、Mybatis、Redis、Kafka、Dubbo等；
 3. 有低代码开发平台经验的优先；
-4. 有责任心、良好的沟通协调能力及团队合作精神。",40,2025-10-23 15:26:13,您好，我目前有一年多的工作经验。我掌握 Spring、MySQL、MyBatis、Redis、Dubbo 等技术，熟悉 Java 基础与分布式系统设计，具备良好的编码与协作能力。我对 Kafka 了解过，有学习意愿。岗位要求的技术我基本掌握，能快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发（银行信贷）,9-12K,9000,12000,1-3年,https://www.zhipin.com/job_detail/bb6be207f7a64db203N82t65EVRV.html,本科,武汉,天阳科技,1000-9999人,计算机软件,福利信息未提供,"Java, SpringCloud, MySQL, 信贷","银行驻场，base光谷
+4. 有责任心、良好的沟通协调能力及团队合作精神。",2025-10-23 15:26:13,您好，我目前有一年多的工作经验。我掌握 Spring、MySQL、MyBatis、Redis、Dubbo 等技术，熟悉 Java 基础与分布式系统设计，具备良好的编码与协作能力。我对 Kafka 了解过，有学习意愿。岗位要求的技术我基本掌握，能快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+41,刚刚活跃,Java开发（银行信贷）,9-12K,9000,12000,1-3年,https://www.zhipin.com/job_detail/bb6be207f7a64db203N82t65EVRV.html,本科,武汉,天阳科技,1000-9999人,计算机软件,福利信息未提供,"Java, SpringCloud, MySQL, 信贷","银行驻场，base光谷
 岗位职责：
 1、根据需求完成对应模块的开发设计并输出文档；
 2、按时完成模块功能开发和单元测试并输出文档；
@@ -547,14 +547,14 @@ Java，Linux，Spring，MyBatis，Eclipse
 2、Java基础扎实，熟练掌握数据结构，至少一年以上微服务实际开发经验，熟悉spring boot、spring cloud、mybatis等框架；
 3、熟悉前端开发框架VUE优先；
 4、熟悉常用开发JAVA工具IDEA，git，tomcat等；
-5、具有强烈的责任心、积极主动的沟通能力和团队协作能力；",41,2025-10-23 15:26:14,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Spring Cloud Alibaba、Redis、Docker、Git、IDEA 等技术，有微服务开发经验，熟悉前后端协作。我对银行信贷系统有一定了解，愿意学习相关业务知识。岗位要求的 Java 技术我均掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java,7-10K·13薪,7000,10000,1-3年,https://www.zhipin.com/job_detail/106daee3b597fb5903B53NW0GVo~.html,本科,武汉,嘉禾云网,20-99人,计算机软件,福利信息未提供,"MES开发经验, Java, 不接受居家办公, ERP, 全栈开发, SpringCloud, SQL Server, SpringBoot, Spring, ERP开发经验, MySQL, 微服务架构, mes, Oracle","熟悉vue、spring微服务架构；
+5、具有强烈的责任心、积极主动的沟通能力和团队协作能力；",2025-10-23 15:26:14,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Spring Cloud Alibaba、Redis、Docker、Git、IDEA 等技术，有微服务开发经验，熟悉前后端协作。我对银行信贷系统有一定了解，愿意学习相关业务知识。岗位要求的 Java 技术我均掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+42,刚刚活跃,Java,7-10K·13薪,7000,10000,1-3年,https://www.zhipin.com/job_detail/106daee3b597fb5903B53NW0GVo~.html,本科,武汉,嘉禾云网,20-99人,计算机软件,福利信息未提供,"MES开发经验, Java, 不接受居家办公, ERP, 全栈开发, SpringCloud, SQL Server, SpringBoot, Spring, ERP开发经验, MySQL, 微服务架构, mes, Oracle","熟悉vue、spring微服务架构；
 熟悉java和数据库开发；
 客户需求调研、方案设计；
 具有较强的文档编写能力；
 能根据公司项目要求出差和加班；
-1年以上管理系统开发经验；",42,2025-10-23 15:27:31,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉微服务架构与分布式事务治理，具备系统设计与接口文档编写能力。我了解 Vue3 和前端交互逻辑，能够保障前后端协作。岗位要求的 Vue 与 Spring 微服务架构，我有相关实践经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-今日活跃,java开发实习生,3-6K·13薪,3000,6000,经验不限,https://www.zhipin.com/job_detail/faa4e4b558f9723c1nF72dW9E1JV.html,大专,武汉,风拓科技,20-99人,计算机软件,福利信息未提供,"服务器配置, Struts, Redis, HTML, Spring, Oracle, SQL","职责:
+1年以上管理系统开发经验；",2025-10-23 15:27:31,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉微服务架构与分布式事务治理，具备系统设计与接口文档编写能力。我了解 Vue3 和前端交互逻辑，能够保障前后端协作。岗位要求的 Vue 与 Spring 微服务架构，我有相关实践经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+43,今日活跃,java开发实习生,3-6K·13薪,3000,6000,经验不限,https://www.zhipin.com/job_detail/faa4e4b558f9723c1nF72dW9E1JV.html,大专,武汉,风拓科技,20-99人,计算机软件,福利信息未提供,"服务器配置, Struts, Redis, HTML, Spring, Oracle, SQL","职责:
 
 1、负责平台产品业务的开发。
 
@@ -576,8 +576,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 
 4. 熟练使用Tomcat、Nginx等web服务器
 
-5. 熟悉HTML5，有一定的Web前台开发经验",43,2025-10-23 15:27:35,您好，我目前有一年多的工作经验。我掌握Java面向对象编程，熟悉Spring、MyBatis、Redis等框架，了解MySQL数据库开发与优化，能够使用Tomcat部署应用，具备HTML5基础和Web前台开发经验。我了解Nginx，有意愿学习并掌握其使用。针对岗位要求，我具备扎实的Java后端开发能力，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java中级开发工程师,4-8K·13薪,4000,8000,1-3年,https://www.zhipin.com/job_detail/d2c11e360215ba3c1XN6096_GFRY.html,本科,武汉,兴盛航电科技,20-99人,计算机软件,福利信息未提供,全栈工程师,"工作内容：
+5. 熟悉HTML5，有一定的Web前台开发经验",2025-10-23 15:27:35,您好，我目前有一年多的工作经验。我掌握Java面向对象编程，熟悉Spring、MyBatis、Redis等框架，了解MySQL数据库开发与优化，能够使用Tomcat部署应用，具备HTML5基础和Web前台开发经验。我了解Nginx，有意愿学习并掌握其使用。针对岗位要求，我具备扎实的Java后端开发能力，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+44,刚刚活跃,java中级开发工程师,4-8K·13薪,4000,8000,1-3年,https://www.zhipin.com/job_detail/d2c11e360215ba3c1XN6096_GFRY.html,本科,武汉,兴盛航电科技,20-99人,计算机软件,福利信息未提供,全栈工程师,"工作内容：
 1、按照作业流程的要求，保质保量完成本职工作;
 2、按项目进度、质量要求进行项目开发、测试及相关文档编写;
 3、积极主动地解决项目开发中的问题。
@@ -589,15 +589,15 @@ Java，Linux，Spring，MyBatis，Eclipse
 4、熟练编写SQL，了解SQL优化;
 5、熟练使用前端Vue框架，熟悉前后分离的开发模式;
 6、态度踏实，细致严谨，较强的团队合作精神，较强的思维逻辑能力，能承受一定的工作压力。
-7、熟练使用C/C++语言进行编程者，优先录取。",44,2025-10-23 15:27:58,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Vue3等技术，熟悉分布式服务架构和前后端分离开发模式。我对SQL优化和缓存机制有一定实践经验，能够独立完成系统开发与维护。对于C/C++语言，我了解过相关知识，如有需要我会积极学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/cdebb9734991e17e1nV409y9FFFT.html,本科,武汉,顶点软件,1000-9999人,计算机软件,福利信息未提供,"Java, GIT, 微服务经验, JavaScript, 计算机软件, HTML, SVN, Spring, SQL","1、大学本科及以上学历理工科专业，包括但不限于：计算机类、电子信息类、自动化类、机械类、数学和物理、金融工程等，2025届亦可；
+7、熟练使用C/C++语言进行编程者，优先录取。",2025-10-23 15:27:58,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Vue3等技术，熟悉分布式服务架构和前后端分离开发模式。我对SQL优化和缓存机制有一定实践经验，能够独立完成系统开发与维护。对于C/C++语言，我了解过相关知识，如有需要我会积极学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+45,刚刚活跃,Java开发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/cdebb9734991e17e1nV409y9FFFT.html,本科,武汉,顶点软件,1000-9999人,计算机软件,福利信息未提供,"Java, GIT, 微服务经验, JavaScript, 计算机软件, HTML, SVN, Spring, SQL","1、大学本科及以上学历理工科专业，包括但不限于：计算机类、电子信息类、自动化类、机械类、数学和物理、金融工程等，2025届亦可；
 2、综合素质较好，思维活跃，并具备扎实的计算机基础知识；
 3、至少熟悉一种主流编程语言（如Java、JavaScript等）和主流框架，并有一定的项目实践经验；
 4、具备MySQL或Oracle等关系型数据库的应用开发技能；
 5、具备出色的学习能力和解决问题的能力，对新技术和新业务知识充满学习热情；
 6、具备良好的沟通能力和团队协作精神，有责任心和较强的自我驱动力；
-7、热爱并致力于金融科技行业的持续发展。",45,2025-10-23 15:28:05,您好，我目前有一年多的工作经验。我熟悉 Java 基础及面向对象设计，能使用 Spring Boot、MyBatis、Spring Cloud Alibaba 等技术进行系统开发与部署。我掌握 MySQL 的索引、事务及 Redis 缓存应用，具备 Docker 容器化与 CI/CD 实践经验。我了解 Vue3、Element-UI 等前端技术，能配合前后端协作。岗位要求的 Java 后端开发技能我均具备。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发工程师,8-12K,8000,12000,经验不限,https://www.zhipin.com/job_detail/6edf1fcef6c62da31HJy0ty7ElJU.html,本科,武汉,云启智慧科技有限公司,100-499人,互联网,福利信息未提供,"Java, SpringCloud, MySQL, MyBatis, SQL Server, Spring","岗位职责：
+7、热爱并致力于金融科技行业的持续发展。",2025-10-23 15:28:05,您好，我目前有一年多的工作经验。我熟悉 Java 基础及面向对象设计，能使用 Spring Boot、MyBatis、Spring Cloud Alibaba 等技术进行系统开发与部署。我掌握 MySQL 的索引、事务及 Redis 缓存应用，具备 Docker 容器化与 CI/CD 实践经验。我了解 Vue3、Element-UI 等前端技术，能配合前后端协作。岗位要求的 Java 后端开发技能我均具备。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+46,刚刚活跃,java开发工程师,8-12K,8000,12000,经验不限,https://www.zhipin.com/job_detail/6edf1fcef6c62da31HJy0ty7ElJU.html,本科,武汉,云启智慧科技有限公司,100-499人,互联网,福利信息未提供,"Java, SpringCloud, MySQL, MyBatis, SQL Server, Spring","岗位职责：
 1. 负责公司产品的后端开发工作，参与需求分析、系统设计、编码实现、测试及文档编写。
 2. 负责服务器端应用程序的设计、开发、优化和维护，保证服务器端程序的稳定性和性能。
 3. 参与数据库设计，负责数据存储方案的设计与优化，确保数据安全和高效访问。
@@ -614,8 +614,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 6. 具备良好的编码习惯和文档编写能力，能够编写清晰、高效、可维护的代码。
 7. 具备良好的团队合作精神和沟通能力，能够与团队成员高效配合，完成项目任务。
 
-注：该岗位base武汉，但前期需出差到天津项目驻场（预计出差2-3个月，出差期间提供住宿，且出差期间有出差补贴），结束后回武汉，后期就长期在武汉办公。",46,2025-10-23 15:28:07,您好，我目前有一年多的工作经验。我掌握Java后端开发相关技术，熟悉Spring Boot、Spring Cloud Alibaba、MyBatis等框架，了解MySQL、Redis数据库优化及分布式系统设计，能使用Docker进行容器化部署。我对Linux服务器有基本操作能力，具备良好的编码习惯和文档编写能力。岗位要求的中间件技术如RabbitMQ、Kafka等，我了解过，虽然未深入使用，但我有较强的学习能力，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发（本科  短期半年项目）,8-10K,8000,10000,1-3年,https://www.zhipin.com/job_detail/e11e16a420118b3603x92d2-E1tS.html,本科,武汉,软帝联合,100-499人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 分布式经验, 熟悉Java 8+特性, SpringCloud, Redis, 多线程、集合、IO, Docker, 微服务经验, Linux, MySQL, Git、Maven, 面向对象编程能力，","岗位要求：
+注：该岗位base武汉，但前期需出差到天津项目驻场（预计出差2-3个月，出差期间提供住宿，且出差期间有出差补贴），结束后回武汉，后期就长期在武汉办公。",2025-10-23 15:28:07,您好，我目前有一年多的工作经验。我掌握Java后端开发相关技术，熟悉Spring Boot、Spring Cloud Alibaba、MyBatis等框架，了解MySQL、Redis数据库优化及分布式系统设计，能使用Docker进行容器化部署。我对Linux服务器有基本操作能力，具备良好的编码习惯和文档编写能力。岗位要求的中间件技术如RabbitMQ、Kafka等，我了解过，虽然未深入使用，但我有较强的学习能力，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+47,刚刚活跃,Java开发（本科  短期半年项目）,8-10K,8000,10000,1-3年,https://www.zhipin.com/job_detail/e11e16a420118b3603x92d2-E1tS.html,本科,武汉,软帝联合,100-499人,计算机软件,福利信息未提供,"Java, 不接受居家办公, 分布式经验, 熟悉Java 8+特性, SpringCloud, Redis, 多线程、集合、IO, Docker, 微服务经验, Linux, MySQL, Git、Maven, 面向对象编程能力，","岗位要求：
 1.2-3年工作经验
 2.学历要求​：本科及以上（计算机科学、软件工程、电子信息等相关专业）
 3.​技术技能​
@@ -634,8 +634,8 @@ Java，Linux，Spring，MyBatis，Eclipse
   2. 在高级工程师指导下，完成复杂业务模块的开发与调试。
   3. 协助排查和解决系统运行中的问题，保障代码质量和系统稳定性。
   4. 编写技术文档，参与代码评审，遵循团队开发规范和安全要求。
-​任职要求​",47,2025-10-23 15:28:08,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉多线程、集合、IO等核心类库，了解微服务架构和前端基础。岗位要求的技术我基本都掌握，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java工程师,7-12K·13薪,7000,12000,经验不限,https://www.zhipin.com/job_detail/1fe45601e6349ef91Xd_0t2-FlZU.html,本科,武汉,美斯齐,20-99人,文化艺术/娱乐,福利信息未提供,"搜索引擎技术, Java, Nginx, Elasticsearch, Docker, MySQL, SpringCloud, Redis, MyBatis, 软件工程师, SpringBoot, Python","教育背景：
+​任职要求​",2025-10-23 15:28:08,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉多线程、集合、IO等核心类库，了解微服务架构和前端基础。岗位要求的技术我基本都掌握，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+48,刚刚活跃,Java工程师,7-12K·13薪,7000,12000,经验不限,https://www.zhipin.com/job_detail/1fe45601e6349ef91Xd_0t2-FlZU.html,本科,武汉,美斯齐,20-99人,文化艺术/娱乐,福利信息未提供,"搜索引擎技术, Java, Nginx, Elasticsearch, Docker, MySQL, SpringCloud, Redis, MyBatis, 软件工程师, SpringBoot, Python","教育背景：
 1、本科及以上学历。
 
 任职要求：
@@ -655,8 +655,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 2、对Vue2全家桶能足够了解，有进阶技术的掌握。
 3、对Tkinter/Tkinter-Bootstrap有过实际项目。
 4、对Python多线程、协程有一定了解和实际运用。
-5、对SpringCloudAlibaba全家桶有实际项目搭建、开发经验。",48,2025-10-23 15:28:11,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis-Plus、Redis、MySQL、Docker、Linux、Vue3、Git 等技术，具备前后端协作能力。我对岗位要求的 SpringBoot、MyBatis-Plus、Redis、MySQL 有实际项目经验，对 Vue2 了解过，能阅读并调试代码。岗位要求的技术我基本掌握，部分技术如 Vue2 我了解过，会积极学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/d97c2a8e2f0b5bc71Xdy3Ny7E1s~.html,本科,武汉,人云智物,0-20人,计算机服务,福利信息未提供,"Java, SpringCloud, MySQL, MyBatis, Redis, 系统架构, 数据库","岗位要求与职责：
+5、对SpringCloudAlibaba全家桶有实际项目搭建、开发经验。",2025-10-23 15:28:11,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis-Plus、Redis、MySQL、Docker、Linux、Vue3、Git 等技术，具备前后端协作能力。我对岗位要求的 SpringBoot、MyBatis-Plus、Redis、MySQL 有实际项目经验，对 Vue2 了解过，能阅读并调试代码。岗位要求的技术我基本掌握，部分技术如 Vue2 我了解过，会积极学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+49,刚刚活跃,java开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/d97c2a8e2f0b5bc71Xdy3Ny7E1s~.html,本科,武汉,人云智物,0-20人,计算机服务,福利信息未提供,"Java, SpringCloud, MySQL, MyBatis, Redis, 系统架构, 数据库","岗位要求与职责：
 1、统招计算机及相关专业本科及以上学历，2年以上java项目开发经验，良好的编码规范；
 2、技术栈SpringCloud+Flowable流程引擎+Vue全家桶（基于BladeX平台）
 3、善于沟通和逻辑表达，主动思考，能提出部分更优意见，团队协作时能灵活补位，具有较强的协调推动能力；
@@ -668,8 +668,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 全自研非外包主产品线：
 智慧后勤管理平台政务垂直领域（智慧园区）；
 巡检机器人（机器狗/四足机器人）；
-轨道交通智慧保护平台（地铁行业）；",49,2025-10-23 15:28:14,您好，我目前有一年多的工作经验。我掌握 Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的编码习惯。岗位要求的 SpringCloud 技术我了解过，我会积极学习。我有 Vue3 前端相关经验，能与前端高效协作。我注重团队协作，善于沟通，能够独立完成模块开发与文档编写。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-今日活跃,Java开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/274111dcf56ceb2f0X183dW1FVM~.html,大专,武汉,朗付通,0-20人,计算机软件,福利信息未提供,"Java, SQL, HTML, Spring, JQuery, MVC开发, 网络协议, MySQL","岗位职责：
+轨道交通智慧保护平台（地铁行业）；",2025-10-23 15:28:14,您好，我目前有一年多的工作经验。我掌握 Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的编码习惯。岗位要求的 SpringCloud 技术我了解过，我会积极学习。我有 Vue3 前端相关经验，能与前端高效协作。我注重团队协作，善于沟通，能够独立完成模块开发与文档编写。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+50,今日活跃,Java开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/274111dcf56ceb2f0X183dW1FVM~.html,大专,武汉,朗付通,0-20人,计算机软件,福利信息未提供,"Java, SQL, HTML, Spring, JQuery, MVC开发, 网络协议, MySQL","岗位职责：
 1、熟练掌握计算机基础知识、熟悉常用数据结构及算法，熟悉常用的网络知识及操作系统原理；
 2、熟练掌握Java开发技术栈，熟悉常用的集合操作、文件IO、多线程编程；
 3、熟悉Java Web开发技术，对常用框架如SpringCloud、Spring Boot、MyBatis有较多的工程使用经验。
@@ -682,8 +682,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 任职要求：
 1、计算机相关专业大专及以上学历；可接受优秀毕业生，实习生;
 2、1年以上的技术开发经验;
-3、为人踏实，团队协作精神好;",50,2025-10-23 15:28:23,您好，我目前有一年多的工作经验。我掌握Java开发技术栈，熟悉Spring Boot、MyBatis、Spring Cloud Alibaba等框架，具备数据库设计与优化能力，了解Redis缓存及分布式锁，能使用Vue3进行前后端协作。我对Linux服务器有操作经验，能编写Dockerfile并参与CI/CD流程。岗位要求的技术我基本掌握，同时我也了解前端开发技术，能配合团队完成接口对接。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,校招-Java开发工程师,9-14K·15薪,9000,14000,在校/应届,https://www.zhipin.com/job_detail/98e7287453dfd7f903N439i7E1dU.html,本科,武汉,ONERWAY,100-499人,计算机软件,福利信息未提供,"Java, SpringCloud, MySQL, MyBatis, Redis, Python","【岗位职责】
+3、为人踏实，团队协作精神好;",2025-10-23 15:28:23,您好，我目前有一年多的工作经验。我掌握Java开发技术栈，熟悉Spring Boot、MyBatis、Spring Cloud Alibaba等框架，具备数据库设计与优化能力，了解Redis缓存及分布式锁，能使用Vue3进行前后端协作。我对Linux服务器有操作经验，能编写Dockerfile并参与CI/CD流程。岗位要求的技术我基本掌握，同时我也了解前端开发技术，能配合团队完成接口对接。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+51,刚刚活跃,校招-Java开发工程师,9-14K·15薪,9000,14000,在校/应届,https://www.zhipin.com/job_detail/98e7287453dfd7f903N439i7E1dU.html,本科,武汉,ONERWAY,100-499人,计算机软件,福利信息未提供,"Java, SpringCloud, MySQL, MyBatis, Redis, Python","【岗位职责】
 1.	参与产品需求的讨论分析评审，进行核心功能模块的概要设计和开发，深入理解业务场景，主动思考基于业务场景下的平台设计；最终转化为相应的功能；确保其架构合理，满足业务需求； 
 2.	发现问题/提出方案/解决问题，保证项目的质量；
 3.	参与并协助技术难题攻关，深入理解并持续提升核心系统可用性/伸缩性/可扩展性/可维护性及其平衡；
@@ -695,8 +695,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 1.	本科学历，计算机/软件/通信/电子/信息管理等相关专业优先；
 2.	热爱编程，具备良好的 JAVA 语言基础，熟悉至少一种数据库语言，了解Spring全家桶的原理和配置（Spring MVC、SpringBoot）、MyBatis/Ibatis、Netty、Hibernate、Mina、Struts）；
 3.	对跨境支付行业感兴趣，有相关开发实习或项目实训经验者优先考虑；
-4.	创新和持续改进能力强，善于团队协作和自我激励，对待工作精益求精、一丝不苟，具备逻辑思维与快速学习能力。",51,2025-10-23 15:28:26,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的编码习惯和团队协作能力。岗位要求的 Java 后端开发技能我基本掌握，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-今日活跃,java开发工程师,6-11K,6000,11000,1-3年,https://www.zhipin.com/job_detail/ee214c1568c3478103d_0t68E1tR.html,大专,武汉,武汉艾迪科技有限公司,20-99人,计算机软件,福利信息未提供,"Java, Nginx, 团队管理经验, PostgreSQL, SpringCloud, Redis, 接受居家办公, Spring, 大数据经验, Docker, 微服务经验, MySQL, MyBatis, 架构设计经验, Oracle","工作内容
+4.	创新和持续改进能力强，善于团队协作和自我激励，对待工作精益求精、一丝不苟，具备逻辑思维与快速学习能力。",2025-10-23 15:28:26,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的编码习惯和团队协作能力。岗位要求的 Java 后端开发技能我基本掌握，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+52,今日活跃,java开发工程师,6-11K,6000,11000,1-3年,https://www.zhipin.com/job_detail/ee214c1568c3478103d_0t68E1tR.html,大专,武汉,武汉艾迪科技有限公司,20-99人,计算机软件,福利信息未提供,"Java, Nginx, 团队管理经验, PostgreSQL, SpringCloud, Redis, 接受居家办公, Spring, 大数据经验, Docker, 微服务经验, MySQL, MyBatis, 架构设计经验, Oracle","工作内容
 1、全面负责Java相关项目的开发与维护工作，保障项目高效、稳定运行。
 2、深度参与系统设计，严格把控代码质量，积极配合完成模块测试，助力项目顺利交付。
 3、依据项目具体需求，精心进行功能设计和数据库设计，着重确保系统具备出色的稳定性和良好的扩展性。
@@ -708,9 +708,10 @@ Java，Linux，Spring，MyBatis，Eclipse
 3、具备良好的问题分析和解决能力，能够独立承担模块开发任务，展现较强的自主性与专业性。
 4、熟悉工程项目行业，对行业特点与流程有深入了解，有过项目管理经验者更佳，能从更宏观的角度把控项目进展。
 5、适应短期出差、项目驻点服务
-6、强烈需要熟悉gw电力、火电、新能源等工程管理相关系统的技术人员加入",52,2025-10-23 15:28:31,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的代码规范与问题解决能力。岗位要求的 Java 后端开发相关技术我均有所掌握，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,中级java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/e31da3c42d4b259703x-2NW4FVdV.html,本科,武汉,安徽音讯科技,20-99人,人工智能,福利信息未提供,"Java, 大数据经验, 物联网经验, 不接受居家办公, SpringCloud, MySQL, Redis, 架构设计经验, Spring, Oracle","岗位职责:
-工作地址在武汉！！！！！
+6、强烈需要熟悉gw电力、火电、新能源等工程管理相关系统的技术人员加入",2025-10-23 15:28:31,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的代码规范与问题解决能力。岗位要求的 Java 后端开发相关技术我均有所掌握，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+53,刚刚活跃,中级java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/e31da3c42d4b259703x-2NW4FVdV.html,本科,武汉,安徽音讯科技,20-99人,人工智能,福利信息未提供,"Java, 大数据经验, 物联网经验, 不接受居家办公, SpringCloud, MySQL, Redis, 架构设计经验, Spring, Oracle","岗位职责:
+
+工作地址在武汉！！！！！
 1. 设计和实现新软件模块以满足产品和运营团队的要求；
 2. 优化现有后端系统的性能，确保稳定运行；
 3. 协作团队开发，保持代码质量；
@@ -722,8 +723,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 3. 理解RESTful架构风格，熟悉Nginx等Web服务器配置；
 4. 熟悉Linux操作系统，能使用常用开发和部署命令；
 5. 掌握面向对象的设计原则和设计模式，能高效解决开发中的问题。
-任职要求：",53,2025-10-23 15:28:32,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git等技术，熟悉Linux系统和RESTful架构。我了解Nginx，有意愿学习并掌握其配置。我具备良好的代码设计能力和团队协作意识，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java软件开发工程师,5-8K,5000,8000,1-3年,https://www.zhipin.com/job_detail/1406939727462bce03dz39W5F1pQ.html,本科,武汉,武汉浩谱海洋探测系统,20-99人,电子/半导体/集成电路,福利信息未提供,"Java, Nginx, 音视频经验, Tomcat, 不接受居家办公, SpringCloud, MySQL, MyBatis, Redis, Spring","1、会使用Spring、SpringMVC、Mybatis、SpringData JPA、SpringBoot、SpringCloud等系统框架；
+任职要求：",2025-10-23 15:28:32,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git等技术，熟悉Linux系统和RESTful架构。我了解Nginx，有意愿学习并掌握其配置。我具备良好的代码设计能力和团队协作意识，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+54,刚刚活跃,java软件开发工程师,5-8K,5000,8000,1-3年,https://www.zhipin.com/job_detail/1406939727462bce03dz39W5F1pQ.html,本科,武汉,武汉浩谱海洋探测系统,20-99人,电子/半导体/集成电路,福利信息未提供,"Java, Nginx, 音视频经验, Tomcat, 不接受居家办公, SpringCloud, MySQL, MyBatis, Redis, Spring","1、会使用Spring、SpringMVC、Mybatis、SpringData JPA、SpringBoot、SpringCloud等系统框架；
 2、会使用Mysql关系型数据库；
 3、了解前端技术HTML5、CSS3，了解Vue、React等主流框架；
 4、会使用SVN版本管理工具、项目管理工具Maven等。
@@ -732,8 +733,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 2、具有1年以java开发经验（能力强应届生亦可）；
 3、有较强的团队意识和创新精神，有良好的技术钻研能力，能承受一定强度工作压力。
 
-简历信息（不仅包含学历、工作经历等）需如实填写，如存在作假隐瞒等，立即辞退。",54,2025-10-23 15:28:34,您好，我目前有一年多的工作经验。我掌握Spring、Spring MVC、MyBatis、Spring Boot、Spring Cloud等框架，熟悉MySQL数据库的使用与优化，了解Vue等前端技术，能够完成前后端协作。我使用Maven进行项目管理，具备Git版本控制经验。岗位要求的技术我基本都掌握，同时我也了解SVN工具，愿意快速学习并适应。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,Java开发工程师,7-9K,7000,9000,1-3年,https://www.zhipin.com/job_detail/9895a0aed2f19b9633R92t21EFA~.html,本科,武汉,恒数利通,20-99人,计算机软件,福利信息未提供,"Java, Nginx, 不接受居家办公, Tomcat, Hadoop, Redis, Spring, 微服务经验, 负载均衡技术, MySQL, 微服务架构, MyBatis, MongoDB, Spark","岗位职责：
+简历信息（不仅包含学历、工作经历等）需如实填写，如存在作假隐瞒等，立即辞退。",2025-10-23 15:28:34,您好，我目前有一年多的工作经验。我掌握Spring、Spring MVC、MyBatis、Spring Boot、Spring Cloud等框架，熟悉MySQL数据库的使用与优化，了解Vue等前端技术，能够完成前后端协作。我使用Maven进行项目管理，具备Git版本控制经验。岗位要求的技术我基本都掌握，同时我也了解SVN工具，愿意快速学习并适应。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+55,刚刚活跃,Java开发工程师,7-9K,7000,9000,1-3年,https://www.zhipin.com/job_detail/9895a0aed2f19b9633R92t21EFA~.html,本科,武汉,恒数利通,20-99人,计算机软件,福利信息未提供,"Java, Nginx, 不接受居家办公, Tomcat, Hadoop, Redis, Spring, 微服务经验, 负载均衡技术, MySQL, 微服务架构, MyBatis, MongoDB, Spark","岗位职责：
 1、参与需求分析，撰写相关技术文档；
 2、参与搭建系统开发环境，完成系统功能模块的设计和代码实现；
 3、 负责功能模块概要设计、详细设计、开发计划和单元测试；
@@ -744,8 +745,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 3、 熟悉Java B/S C/S结构开发，熟悉SpringMvc，springBoot，maven等开源框架；
 4、 熟悉接口技术，如Webservice、Http、Socket等；
 5、熟练掌握JavaScript、html、jquery等Web前端开发技术，熟悉html5语言的优先；
-6、熟悉运用常见JS开发框架JQuery、EasyUI、Bootstrap等前端开源框架，并有实际项目经验， 能快速高效实现各种交互效果；",55,2025-10-23 15:28:49,您好，我目前有一年多的工作经验。我掌握Java语言，熟悉SpringMvc、SpringBoot、Maven等框架，具备扎实的Java开发能力。我了解Http接口技术，能够完成系统功能模块的设计与实现。同时我熟悉JavaScript、html、jquery等前端技术，能保障前后端接口对接。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-刚刚活跃,java开发工程师(srm项目),8-13K,8000,13000,经验不限,https://www.zhipin.com/job_detail/b09cd6a3d5e1ce1603J52tu6EVNR.html,本科,武汉,某大型通信设备制造上市公司,1000-9999人,电子商务,福利信息未提供,"Java, 不接受居家办公, MySQL, Spring, Oracle, ERP开发经验","职能职责
+6、熟悉运用常见JS开发框架JQuery、EasyUI、Bootstrap等前端开源框架，并有实际项目经验， 能快速高效实现各种交互效果；",2025-10-23 15:28:49,您好，我目前有一年多的工作经验。我掌握Java语言，熟悉SpringMvc、SpringBoot、Maven等框架，具备扎实的Java开发能力。我了解Http接口技术，能够完成系统功能模块的设计与实现。同时我熟悉JavaScript、html、jquery等前端技术，能保障前后端接口对接。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+56,刚刚活跃,java开发工程师(srm项目),8-13K,8000,13000,经验不限,https://www.zhipin.com/job_detail/b09cd6a3d5e1ce1603J52tu6EVNR.html,本科,武汉,某大型通信设备制造上市公司,1000-9999人,电子商务,福利信息未提供,"Java, 不接受居家办公, MySQL, Spring, Oracle, ERP开发经验","职能职责
 1、参与公司SRM项目，按照需求配置、开发与实施；
 2、参与需求讨论与分析，提出技术和功能解决方案；
 3、平台问题、日常运维问题解决；
@@ -758,8 +759,8 @@ Java，Linux，Spring，MyBatis，Eclipse
 4、熟悉Linux、Git、Maven、Nginx使用；
 5、熟练掌握使用Oracle、Mysql数据库，并对性能优化有一定的了解
 6、具备一定前端开发经验，掌握一定的jquery、react前端开发；
-7、学习能力强、逻辑清晰、思路开阔、工作认真、责任心强。",56,2025-10-23 15:28:52,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Spring Cloud Alibaba、MySQL、Redis、Docker、Git、Linux、Vue3、Element-UI 等技术，能够独立完成系统开发与部署。我对消息中间件有基础了解，也愿意学习 RabbitMQ、Kafka 等相关技术。岗位要求的 Java 后端开发技能我基本具备，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
-3日内活跃,Java开发工程师,4-7K,4000,7000,1-3年,https://www.zhipin.com/job_detail/de058e91bab1069803J70tq9EFNU.html,大专,武汉,湖北软盟,20-99人,计算机软件,福利信息未提供,"不接受居家办公, 炎黄盈动, ERP开发经验, 低代码","面试形式：电话沟通-线下面试，无笔试，不在武汉不浪费时间
+7、学习能力强、逻辑清晰、思路开阔、工作认真、责任心强。",2025-10-23 15:28:52,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Spring Cloud Alibaba、MySQL、Redis、Docker、Git、Linux、Vue3、Element-UI 等技术，能够独立完成系统开发与部署。我对消息中间件有基础了解，也愿意学习 RabbitMQ、Kafka 等相关技术。岗位要求的 Java 后端开发技能我基本具备，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+57,3日内活跃,Java开发工程师,4-7K,4000,7000,1-3年,https://www.zhipin.com/job_detail/de058e91bab1069803J70tq9EFNU.html,大专,武汉,湖北软盟,20-99人,计算机软件,福利信息未提供,"不接受居家办公, 炎黄盈动, ERP开发经验, 低代码","面试形式：电话沟通-线下面试，无笔试，不在武汉不浪费时间
 学历要求：学信网全日制大专以上学历
 工作年限要求：1-3年
 岗位职责：
@@ -772,4 +773,502 @@ Java，Linux，Spring，MyBatis，Eclipse
 3：熟悉操作系统，中间件，网络，数据库等相关知识，能熟练使用oracle和MySql等数据库。
 4：能够从事软件项目的需求分析、系统设计、编码、测试等各阶段的工作，并能独立承担子系统的系统分析、设计和编码工作。
 5：良好的沟通能力和逻辑思维能力，能够独立承担责任和压力，积极主动，实事求是，注重团队合作。
-6：熟悉炎黄盈动/奥哲等任一低代码平台开发优先考虑，有流程类开发经验优先考虑。",57,2025-10-23 15:29:02,您好，我目前有一年多的工作经验。我掌握Java编程，熟悉SpringMVC、SpringBoot、SpringCloud、MyBatis等框架，了解MySQL数据库，能进行库表设计与SQL调优，熟悉Redis缓存与分布式锁，能使用Docker容器化服务。我对Vue3、Element-UI等前端技术有一定了解，能配合完成前后端对接。岗位要求的Java后端开发技术我基本掌握，同时我也愿意学习低代码平台相关技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+6：熟悉炎黄盈动/奥哲等任一低代码平台开发优先考虑，有流程类开发经验优先考虑。",2025-10-23 15:29:02,您好，我目前有一年多的工作经验。我掌握Java编程，熟悉SpringMVC、SpringBoot、SpringCloud、MyBatis等框架，了解MySQL数据库，能进行库表设计与SQL调优，熟悉Redis缓存与分布式锁，能使用Docker容器化服务。我对Vue3、Element-UI等前端技术有一定了解，能配合完成前后端对接。岗位要求的Java后端开发技术我基本掌握，同时我也愿意学习低代码平台相关技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+58,今日活跃,java工程师,6-10K,6000,10000,1-3年,https://www.zhipin.com/job_detail/d3716fa7048aa55003xy39S9GFpS.html,大专,武汉,武汉炬有智能网络科技,100-499人,人工智能,福利信息未提供,"Java, 大数据经验, 不接受居家办公, SpringCloud, MySQL, MyBatis, Redis, 架构设计经验, Spring, Oracle","1.负责Java平台的软件设计、开发与维护；
+2.进行Java应用的单元测试和功能开发；
+3.与团队合作，确保技术实现符合要求；
+4.对现有系统进行优化，提高系统性能和稳定性；
+5.解决软件开发过程中的技术问题。
+
+任职要求：
+1.具有扎实的Java编程基础和丰富的实践经验；
+2.熟悉Java开发框架，能够使用Spring等主流开发框架；
+3.熟悉数据库操作，具有良好的数据库设计能力；
+4.具备良好的算法基础，能够处理相关开发任务；
+5.具有良好的问题分析和解决能力，能够独立进行任务分解和实施。",2025-10-26 11:16:14,您好，我目前有一年多的工作经验。我熟悉Java基础及Spring、Spring Boot、MyBatis等开发框架，具备MySQL数据库设计与优化能力，了解Redis缓存及分布式锁应用，能够使用Docker进行服务容器化部署。同时，我掌握Linux运维与Git协作流程，具备良好的算法基础和问题解决能力。针对岗位要求的Java后端开发技术，我有扎实的实践经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+59,今日活跃,Java助理/实习生,5-6K,5000,6000,1年以内,https://www.zhipin.com/job_detail/81acd284c092286803xy2Ny7EVBX.html,大专,武汉,武汉鑫棠科技有限公司,0-20人,互联网,福利信息未提供,职位要求技能未提供,"岗位职责:
+1. 协助完成日常Java开发任务
+2. 参与项目的需求分析和设计
+3. 配合团队进行代码测试和维护
+
+任职要求:
+1. 具备良好的沟通能力和团队合作精神
+2. 能够快速学习并应用新知识
+3. 对Java编程有浓厚兴趣，愿意在实践中不断提升",2025-10-26 11:16:16,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git 等技术，熟悉分布式系统设计与开发，具备良好的代码规范与协作能力。岗位要求的 Java 后端开发技能与我的技术栈高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+60,刚刚活跃,Java工程师、武汉,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/1bb2170508d8bb0f03xy39m_EFJV.html,大专,武汉,时光漫步(北京)...,20-99人,计算机软件,福利信息未提供,"Java, Spring","职务详情：
+1、使用Java语言进行业务系统开发；
+2、编写项目文档。
+要求：
+1、有Java前端和后端开发经验；
+2、熟悉至少一门数据库；
+3、能承受一定的工作压力；
+4、至少一年开发经验。",2025-10-26 11:16:17,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git、Linux 等技术，能够进行后端系统开发与部署。我对数据库设计与优化有一定经验，熟悉缓存使用与容器化部署。岗位要求的 Java 后端开发技术我基本具备，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+61,3日内活跃,初级java开发工程师,6-10K,6000,10000,1-3年,https://www.zhipin.com/job_detail/acd63548b7ce9e1503Ny3925F1BQ.html,本科,武汉,合尔康,20-99人,医疗健康,福利信息未提供,"Java, Nginx, SpringCloud, MySQL, Netty, MyBatis, Spring, 接受居家办公","岗位职责：
+1、 能够根据项目需要出差部署开发；
+2、 能独立处理和解决所负责项目任务；
+3、 根据开发进度和任务分配，完成相应模块和接口开发任务；
+4、 编制项目部署、对接以及配置管理等文档和进度记录工作；
+5、 参与项目实施和维护使之保持可用性和稳定性；
+任职要求：
+1、熟悉Java基础知识、JDBC编程、Java Web开发、Servlet等； 
+2、熟悉目前流行的开源框架（Struts、hibernate、Spring）优先；  
+3、熟悉 Eclipse、ntelliJ IDEA、SVN、Navicat、PLSQLDev等开发工具； 
+4、掌握至少一种Java应用服务器（JBoss，Weblogic，Tomcat等）； 
+5、能熟练使用标准SQL结构化查询语言； 
+6、掌握MySQL、MSSQL、Oracle、DB2等主流数据库中至少一种； 
+7、熟悉面向对象的设计，具有较强的学习能力和逻辑思维能力
+8、对业务和技术具备很好的钻研精神，有高度的团队合作精神；
+9、1-3年项目开发或部署经验，有医疗行业软件开发部署经验者优先；",2025-10-26 11:16:18,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git、IDEA等技术，熟悉前后端协作与接口文档生成。岗位要求的Java Web开发、Servlet、Spring框架、MySQL、SQL语言、应用服务器等我均有实际项目经验。我了解过JDBC编程，具备快速学习能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+62,3日内活跃,Java开发工程师,7-11K,7000,11000,经验不限,https://www.zhipin.com/job_detail/eef684677dd2f02603x90tq1FlNV.html,本科,武汉,财人汇,100-499人,互联网,福利信息未提供,职位要求技能未提供,"岗位职责：
+1、对设定的功能进行系统设计、编码、单元测试；
+2、任务开发需要按时按标准完成，并配合测试和产品验收；
+3、开发文档编写；
+4、参与软件模块的代码Review、技术方案评审等质量保证活动；
+5、维护优化现有应用及日常故障处理
+
+任职资格要求：
+1、本科以上学历（重点本科院校优先），计算机相关专业
+2、熟悉java/j2ee开发技术；
+3、深入理解MVC架构模式，熟练使用spring框架；
+4、数据库方面具备一定的基础，会基础的增删改查；
+5、了解前端技术，能够编写简单的后台管理页面；
+6、有良好的自学能力和沟通能力，积极主动、责任心强，能适应一定的工作压力；
+7、具有良好的文档书写习惯和沟通习惯。",2025-10-26 11:16:20,您好，我目前有一年多的工作经验。我熟悉Java开发技术，掌握Spring、Spring MVC、Spring Boot、MyBatis等框架，了解MySQL数据库设计与优化，能够完成基础的增删改查操作。我使用Docker进行服务容器化，具备Linux服务器运维能力，了解前端技术如HTML、CSS、JavaScript，能配合前后端协作。对于岗位要求的技术，我均有实际项目经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+63,3日内活跃,Java开发（武汉+双休+短期半年）,8-10K,8000,10000,1-3年,https://www.zhipin.com/job_detail/c65157f6ebf0e7f503x92tq8FFFR.html,本科,武汉,软帝联合,100-499人,计算机软件,福利信息未提供,"Java, 不接受居家办公, SpringCloud, MySQL, Spring","​职位信息​
+  职位名称​：Java初级软件工程师
+​  工作年限​：2-3年
+​  学历要求​：本科及以上（计算机科学、软件工程、电子信息等相关专业）
+​岗位职责​
+  1. 参与软件模块的设计、编码、测试与维护工作，独立完成分配的功能开发任务。
+  2. 在高级工程师指导下，完成复杂业务模块的开发与调试。
+  3. 协助排查和解决系统运行中的问题，保障代码质量和系统稳定性。
+  4. 编写技术文档，参与代码评审，遵循团队开发规范和安全要求。
+​任职要求​
+​技术技能​
+  • ​Java基础​：扎实的面向对象编程能力，熟悉Java 8+特性（Lambda、Stream API等），掌握多线程、集合、IO等核心类库。
+​  • 开发框架​：熟练使用Spring Boot 2.7+、MyBatis/MyBatis Plus等框架，了解Spring MVC工作原理。
+​  • 数据库​：掌握MySQL/Oracle的基本操作及SQL优化，熟悉索引、事务等概念。
+​  • 工具与部署​：熟悉Git、Maven，了解Linux基本命令,Docker容器化部署者优先。
+​  • 加分项​：了解微服务架构（Spring Cloud）、Redis缓存、Vue前端开发或常见设计模式。
+​综合素质​
+  • 逻辑清晰，能快速理解业务需求，具备独立分析问题和解决问题的能力。
+  • 良好的团队沟通能力，能主动反馈进度并协同完成跨模块任务。
+  • 学习能力强，愿意深入技术原理，在指导下逐步承担复杂开发任务",2025-10-26 11:16:23,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、MySQL、Redis、Git、Docker等技术，熟悉多线程、集合、IO等核心类库，了解微服务架构与前后端协作。岗位要求的技术我基本都掌握，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+64,今日活跃,java开发工程师,6-10K,6000,10000,1-3年,https://www.zhipin.com/job_detail/b2518ea2af07f95d03x90tq0FVpY.html,大专,武汉,智信诚达,20-99人,计算机软件,福利信息未提供,"Java, Nginx, C++, SpringCloud, MySQL, MyBatis, Redis, MongoDB, Spring","岗位职责：
+1、参与公司核心系统的Java开发，负责模块的设计、编码及优化工作；
+2、与团队合作，完成系统功能的实现，确保代码质量及系统稳定性；
+3、分析并解决系统中的性能瓶颈，提升系统的可扩展性和响应速度。
+4、进行开发组件的选择和环境搭建。
+
+任职要求：
+1、精通Java编程语言，熟悉Spring等主流开发框架；
+2、熟练使用MySQL、Oracle等关系型数据库，具备良好的SQL编写和优化能力；
+3、具备良好的面向对象设计思想，能够独立完成模块设计；
+4、具有较强的分析问题和解决问题的能力，能够高效应对技术挑战。
+5、熟悉linux操作系统，了解Linux系统常用操作指令。",2025-10-26 11:16:25,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring Boot、MyBatis、MySQL、Redis、Docker、Linux等技术，熟悉面向对象设计和常用开发框架，具备良好的SQL优化能力与系统调优经验。我对分布式系统有实际项目经验，了解Nacos、Gateway、Sentinel等技术。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+65,3日内活跃,Java开发（校招),7-10K,7000,10000,经验不限,https://www.zhipin.com/job_detail/654ed6c7173f6fa003x73t64FFBX.html,本科,武汉,武汉博科国泰,100-499人,医疗健康,福利信息未提供,"Java, C++, 医疗信息化, SpringCloud, MySQL, Redis, Spring, Oracle, Python","职位描述：
+（1） 负责医疗业务场景的数据整合、数仓建模等ETL工作。
+（2） 负责全生命周期的数据治理工作。
+（3） 参与公司数据治理平台工具的研发工作。
+（4） 参与元数据管理、数据血缘、数据质量、数据标准等治理方案落地。
+
+任职要求
+（1） 本科及以上学历，计算机、数学、通信等相关专业。
+（2） 熟悉ODS、DWD、DWS、DIM等数据分层模型设计与脚本开发。
+（3） 熟悉Java、Python等常用编程语言。
+（4） 熟悉ORM，SpringBoot,SpringCloud，Flask等技术框架。
+（5） 熟练使用Apache Doris 、FlinkCDC、Kafka等大数据组件。
+（6） 熟练编写数据采集脚本（Oracle/MySQL/Doris），保障数据完整性与一致性。
+（7） 熟悉医疗行业数据的采集、清洗、建模与标准化流程。
+（8） 责任心强，具备良好的问题分析及解决能力，团队合作能力。",2025-10-26 11:16:27,您好，我目前有一年多的工作经验。我掌握Java后端开发相关技术，熟悉Spring Boot、MyBatis、Redis、Docker等，具备良好的系统设计与开发能力。我对数据处理有一定了解，了解MySQL、Oracle等数据库的使用，能够编写数据采集脚本。虽然我未直接使用过Apache Doris、FlinkCDC、Kafka等大数据组件，但我了解其基本原理，并有较强的学习能力。岗位要求的数据整合与治理工作与我的技术背景有较高契合度。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+66,今日活跃,Java开发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/d1d86dcb13ebaafd03xy2tq9ElpQ.html,本科,武汉,武汉纵横聚客数字科技,0-20人,互联网,福利信息未提供,"Java, MySQL, MongoDB","岗位职责：
+1、负责产品后台用户数据计算以及相关系统的架构设计和开发；
+2、负责信息数据管理平台的设计和开发；
+3、负责系统文档体系的建立、维护及版本管理；
+4、负责电商投流平台产品整体项目的技术改进和优化。
+ 岗位要求
+1、计算机相关专业，统招本科及以上学历，1年及以上服务器端开发经验；
+2、精通java编程语言和Linux 、GIT等基本技能；
+3、熟悉B/S架构后端开发环境及部署环境，
+4、熟悉TCP/IP、HTTP协议相关知识；
+5、熟悉MySQL/Mongo或其它大型数据库开发以及相关工具；
+6、熟悉Docker等常用的开发环境优先，熟悉分布式系统的基本知识者优先；
+7、具备良好的沟通能力和团队协作精神，富有创新精神，能承受较大的压力。
+福利待遇：入职即购买五险+年终奖+定期体检+国家带薪假期
+工作时间：八小时工作制 弹性考勤 周末双休
+工作地点：武汉市洪山区融创智谷B1栋3A11",2025-10-26 11:16:29,您好，我目前有一年多的工作经验。我掌握Java编程语言、Linux系统操作、Git版本控制、B/S架构开发、TCP/IP和HTTP协议，熟悉MySQL数据库及Redis缓存技术，了解Docker容器化部署，具备分布式系统开发经验。我了解Mongo数据库，并愿意学习相关技术。我能够快速搭建系统并进行性能优化，具备良好的团队协作能力。针对该岗位要求，我有扎实的后端开发能力和项目实践经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+67,刚刚活跃,java开发,8-9K,8000,9000,1-3年,https://www.zhipin.com/job_detail/f8b1a79e7f27c60b03x809i-ElpT.html,本科,武汉,铭思软件,500-999人,人力资源服务,福利信息未提供,"Java, SpringCloud, MySQL","1、参与软件开发项目的具体实施，负责对系统技术工作的有效管理；
+2、负责软件项目的可行性分析、需求分析及设计工作；
+3、参与项目的关键模块程序编码工作，主导技术测试工作；
+4、负责生产系统事件快速定位及分析工作。
+任职资格：
+1、2年及以上工作经验；
+2、扎实的计算机专业基本功和JAVA基础，熟练的编码能力，熟练掌握数据结构、多线程编程，掌握常用的设计模式；
+3、对spring boot、spring cloud等常见微服务框架有使用经验，熟悉springmvc、orm框架（ibatis或hibernate），熟悉HTTP和Socket编程，熟悉TCP/IP网络原理；
+4、熟悉分布式、缓存、消息等机制，能对分布式常用技术进行合理应用，解决实际架构问题；
+5、熟悉关系型和NoSQL数据库的设计和开发，熟悉SQL，如：Oracle、Mysql、redis、Mongodb、memcached等
+6、了解开源大数据平台，如：Hadoop，Spark，HBase，Kafka，Flink等大数据相关技术；
+7、了解Jenkins和持续集成，了解Ansible、Zabbix等自动化运维工具",2025-10-26 11:16:32,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux 等技术，熟悉微服务架构与分布式事务。我了解 Spring Cloud Alibaba、Nacos、Sentinel 等相关技术，具备良好的系统设计与问题排查能力。对于 Kafka、Hadoop 等大数据技术，我了解过并愿意学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+68,3日内活跃,java中级开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/fb0eb3d3054b960403Ry3d68EFpU.html,本科,武汉,福禄贵科技,0-20人,智能硬件/消费电子,福利信息未提供,"Java, MySQL, Spring","岗位职责：
+
+1. 参与产品的需求分析与设计；
+
+2. 参与技术的架构设计、开发、迭代；
+
+3. 根据产品需求和架构设计完成具体模块设计、编码、测试；
+
+4. 负责解决攻关项目难题的，提升产品功能性、安全性、性能性；
+5. 负责相关文档的编写工作。
+
+岗位要求：
+
+1. 熟练JavaSE基础知识，多线程与并发编程，熟悉常用的泛型、Java8新特性等；
+
+2. 熟悉计算机网络基础、操作系统基础、数据结构和算法；
+3. 熟练使用Spring、SpringMVC、Mybatis、Spring Boot等开源框架，熟悉Spring的IOC、AOP设计思想，熟练使用Java基础技术Servlet、Jdbc，熟练使用开发工具及版本控制器项目构建工具：Idea、Git、Maven；
+
+4. 熟练使用MySql等关系型数据库，熟练使用Redis等非关系型数据库；",2025-10-26 11:16:35,您好，我目前有一年多的工作经验。我掌握JavaSE基础、多线程与并发编程、Java8新特性，熟悉Spring、Spring MVC、MyBatis、Spring Boot等框架，了解MySQL和Redis的使用，能够进行数据库设计与优化。我使用Git、Maven进行项目管理，熟悉Linux环境下的开发与部署。岗位要求的技术我均有所掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+69,3日内活跃,Java,7-8K,7000,8000,1-3年,https://www.zhipin.com/job_detail/b44008fa95c6d62003J829q7FlpZ.html,大专,武汉,武汉魁鳌信息技术,20-99人,互联网,福利信息未提供,"Java, Nginx, 不接受居家办公, 分布式经验, SpringCloud, Kafka, Redis, Spring, ERP开发经验, 大数据经验, 微服务经验, MySQL, MyBatis, 架构设计经验, Oracle","岗位职责:
+1. 设计并开发基于Java平台的软件应用；
+2. 参与系统架构设计，确保技术解决方案满足性能要求；
+3. 编写和维护高质量代码，进行单元测试和代码审查；
+4. 与团队成员紧密合作，解决技术问题，提升产品的市场竞争力。
+
+任职要求：
+1. 精通Java编程语言，熟悉Java SPringboot 和 Springcloud；
+2. 熟练掌握Spring等主流Java开发框架；
+3. 具备优秀的面向对象设计技巧，熟悉常见的设计模式；
+4. 有良好的数据库设计和优化技能，至少熟悉一种关系型数据库；
+5. 对 Vue2 和 Vue3 抱有浓厚兴趣，愿意不断学习和探索。",2025-10-26 11:16:36,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、Spring Cloud Alibaba、MyBatis、Redis、MySQL、Docker、Git、Vue3 等技术，熟悉面向对象设计和常用设计模式。我了解 Vue2 和 Vue3，愿意不断学习和探索。岗位要求的技术我基本都掌握，能够快速上手项目。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+70,今日活跃,Java开发,4-6K,4000,6000,1-3年,https://www.zhipin.com/job_detail/db490ddd4a8c45df1Xdz2Ni9ElNZ.html,大专,武汉,武汉飞猪,20-99人,电子商务,福利信息未提供,"Java开发经验, 全栈工程师, Java","1、根据公司实际业务，维护ERP有关业务模块的功能设置，确保该模块能稳定运行；
+2、根据业务部门在使用ERP过程中出现的问题，分析并解决，确保ERP相关业务正常运作；
+3、具有能独立开发整套全盘系统能力，根据关提交的需求说明进行开发后，完成技术文档并进行归档；
+4、根据相关部门实际业务需要，提交需求说明书，进行需求开发，以便提高实际业务方便、快捷、准确运作；
+5、培训涉及ERP业务新进员工，提升相关人员ERP操作技能及开发水平；
+6、配合B2C Amazon等电商平台接口模块、供应链模块、财务模块、CRM模块、运营模块、仓储模块、物流模块、人员管理等各个模块的有效对接；
+7、ERP数据进行采集和处理归档。
+
+岗位要求：
+1.熟悉java语言,具有javaweb开发经验
+	掌握Spring,Mybatis框架,熟悉javaScript,Ajax等页面开发.
+	熟悉EasyUi前端框架熟悉js css+div;
+2、精通SqlServer数据库开发，熟悉SQL触发器、存储过程、函数，熟悉ERP中常用模块（销售、采购、财务、仓库、运营）等模块业务；
+3、熟悉外贸平台接口开发优先、熟悉nopcommerce优先；
+4、一年以上软件开发经验，有电商/ERP/库销系统开发经验优先",2025-10-26 11:16:37,您好，我目前有一年多的工作经验。我掌握Java语言，熟悉Spring、MyBatis框架，了解JavaScript、Ajax等页面开发，熟悉EasyUi前端框架，能够完成前后端协作。我有ERP相关模块的开发经验，熟悉销售、采购、财务、仓库等模块业务。我对SqlServer数据库有一定了解，能够进行基本开发。我了解外贸平台接口开发，愿意学习相关技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+71,刚刚活跃,java全栈工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/9bb8ce852a10795403J-3Nm_EFNU.html,本科,武汉,长江中星公司,20-99人,电力/热力/燃气/水利,福利信息未提供,"Java, Nginx, 物联网经验, 不接受居家办公, SpringCloud, Vue, Redis, SQL Server, Spring, 微服务经验, MySQL, Netty, MyBatis, MongoDB, Oracle","岗位职责
+1、负责前后台项目开发及接口对接；
+2、参与需求分析、架构设计及相关评审工作；
+3、编写并维护开发过程中的相关设计文档。
+
+任职要求
+1、第一学历计算机或相关专业，全日制统招本科及以上学历。学历不符勿投。
+2、一年及以上工作经验，熟练Java开发，掌握Spring、MyBatis、Spring Boot等应用框架。
+3、熟练Vue+Ant Design前端开发。
+4、熟悉cesium、three等三维开发；连接使用GIS地图。
+5、熟练主流关系数据库SQL Server/Oracle/Mysql,具备良好的数据建模能力。
+6、了解分布式缓存（Redis)、消息中间件(Kafka、Mqtt)、RPC框架、负载均衡、微服务治理等技术，掌握各类中间件使用、部署、运维，包括Redis、Nginx、Tomcat等。
+7、具备良好沟通能力、表达能力和书写能力，团队意识强，能够带领和协调多名队员完成调研、研发任务。
+8、具备高度责任心、良好的问题分析定位和推动解决能力、对外沟通能力和团队协作能力，能独立承担任务，有强烈的时间观念和责任感。
+9、有数字孪生，三维，水务，智慧水务，市政管线相关经验优先。",2025-10-26 11:16:39,您好，我目前有一年多的工作经验。我掌握 Java 开发，熟练使用 Spring、MyBatis、Spring Boot 等框架，熟悉 MySQL 数据库设计与优化，了解 Redis 缓存及分布式锁应用，能够编写 Dockerfile 实现服务容器化部署。我了解 Vue3 和 Element-UI，具备前后端协作能力。对于 GIS 地图相关技术，我了解过但尚未深入实践，我会积极学习并掌握。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+72,3日内活跃,java 开发工程师,3-5K,3000,5000,1-3年,https://www.zhipin.com/job_detail/8aab9993ab6babe533x529y5GVM~.html,本科,武汉,维普科技,20-99人,计算机软件,福利信息未提供,"java, SpringCloud, 多线程, SpringMVC, Dubbo, JQuery, Spring, java工程师 spring boot 工程师","岗位职责：
+1、根据项目开发进度和任务分配，开发符合系统要求的相应软件模块。
+
+2、根据公司技术文档规范编写相应的技术文档。
+
+3、根据需要不断修改完善软件。
+
+岗位要求：
+
+1、精通Java语言基础及面向对象编程思想；
+
+2、熟练使用Spring boot,maven, redis,等主流开发框架或技术；
+
+3、熟练掌握vue前端技术；
+
+4、熟悉SQL语言，使用过SqlServer、Mysql、postgresql等其中至少一种数据库；
+
+5. 了解hadoop开发，熟悉flink开发，熟悉Spark开发。
+
+6、至少有一年以上的实际项目开发经验；
+
+7、工作勤奋，责任心强，有良好的编程习惯和强烈的团队精神；有迅速接受新技术、快速学习和应用能力。",2025-10-26 11:16:40,您好，我目前有一年多的工作经验。我掌握Java语言基础及面向对象编程思想，熟练使用Spring Boot、MyBatis、Redis、MySQL等技术，了解Vue前端技术，熟悉Git、Maven等工具。对于Hadoop、Flink、Spark等技术，我了解过并愿意学习。岗位要求的技术我基本掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+73,刚刚活跃,java开发工程师,6-8K,6000,8000,1-3年,https://www.zhipin.com/job_detail/4cba18f5426950d003N_39W8FVBR.html,本科,武汉,致远互联,1000-9999人,计算机软件,福利信息未提供,"MES开发经验, Java, 不接受居家办公, MySQL, SQL Server, Spring, 代码编写","工作职责：
+1、按客开项目经理制定的开发方案完成代码开发。
+2、按开发规范及要求进行项目代码及文档的撰写。
+3、产品及二次开发BUG运维。
+掌握技能：
+1、IT基本技能、产品安装部署、CAP流程应用配置、VISIO、PPT制作、数据库基础、协同办公产品标准功能。
+2、了解实施方法论，可以按照实施要求完成项目文档、项目日志等内容。
+3、了解产品技术架构，能灵活运用相关开放接口。",2025-10-26 11:16:43,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、JIRA、Postman 等技术，具备前后端协作能力。岗位要求的 CAP 流程应用配置、VISIO、PPT 制作等我了解过，我会积极学习。我能够按照开发规范完成代码编写与文档撰写，保障项目顺利推进。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+74,今日活跃,java开发工程师,8-13K,8000,13000,1-3年,https://www.zhipin.com/job_detail/2fe187bffc8f2c491Xx80t60EFpX.html,本科,武汉,Jason捷先数码,100-499人,仪器仪表,福利信息未提供,"Java, 不接受居家办公, MySQL, MyBatis, Spring, Oracle","岗位职责： 
+1、根据《系统详细设计说明书》进行代码实现。 
+2、对自己代码进行复查，并进行简单的测试。 
+3、编写自己代码的流程文档。 
+4、控制自己代码的开发进度。 
+
+
+任职资格： 
+1、20-40岁，性别不限，身体健康。 
+2、统招本科及以上学历，计算机应用专业优先。 
+3、精通java基础，java高级编程，及常用java设计模式，深入理解mvc编程模式，了解uml相关知识。 
+4、掌握spring、mybatis等主流框架，及redis、rabbitMQ等常用中间件。
+5、前后端全栈开发，熟练掌握浏览器和IDE调试工具。 
+6、熟练掌握web应用程序设计相关的jsp、javascript、ajax、css、html等技术。 
+7、熟悉db2、orcale、ms sql server、mysql数据库其中一种，主要是oracle。
+8、有较强的新技术学习能力，和良好的沟通能力和理解能力。
+对于应届生要求计算机相关专业！",2025-10-26 11:16:44,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、MyBatis、Redis、MySQL、Docker、Git等技术，熟悉前后端协作与接口调试，了解Vue3、Element-UI等前端技术。岗位要求的Java后端开发技术我基本具备，同时我有较强的学习能力，能够快速适应新技术。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+75,刚刚活跃,初级java,8-11K,8000,11000,1-3年,https://www.zhipin.com/job_detail/1e87b7532d2fa9a603xy3Nm_EFJV.html,大专,武汉,江西际屿科技有限公司,20-99人,计算机软件,福利信息未提供,"Java, 不接受居家办公, SpringCloud, MyBatis, Redis","工作职责：
+1、二年以上Java开发经验；
+2、具有良好的编码规范和测试技能，良好的编程风格；
+3、熟练掌握SpringMVC，SpringBoot，SpringCloud，JPA/MyBatis等开发框架，熟悉Git，Maven等工具的使用；
+4、熟悉MySQL关系型数据库及其SQL优化，了解MongoDb或Redis至少一种非关系型数据库；
+5、掌握分布式系统常见技术，了解分布式缓存、消息队列、分布式事务等机制；
+6、熟悉Linux常用命令;
+7、 善于学习, 乐于钻研, 不畏挑战, 敢于创新, 渴望成功。",2025-10-28 11:07:32,您好，我目前有一年多的工作经验。我掌握SpringBoot、MyBatis、SpringMVC、SpringCloud、MySQL、Redis、Git、Maven等技术，熟悉分布式系统设计与优化，了解Linux常用命令。我具备良好的编码习惯和测试意识，能够独立完成模块开发与协作。对于岗位要求的JPA，我了解过此技术，表明我没学过此技术，并给出我会学习此技术的态度。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+76,刚刚活跃,Java 开发（接受实习生）,5-6K,5000,6000,1-3年,https://www.zhipin.com/job_detail/93c59597345595cd03xy3N-_GVdU.html,本科,武汉,武汉从新能源科技,0-20人,其他专业服务,福利信息未提供,"JVM, Java, 不接受居家办公, MySQL, MyBatis, Redis, 架构设计经验","岗位职责
+负责后端模块的业务逻辑实现、接口编写、数据库设计；
+能与前端团队对接接口，保证前后端数据交互顺畅；
+参与系统架构设计、接口文档编写及项目技术方案讨论；
+根据产品需求，能使用原型工具（如墨刀）进行简单的原型设计与功能分析；
+对项目业务理解深入，具备独立解决问题与优化代码的能力。
+
+必须具备的技能（必备要求）
+熟练掌握 Java 开发技术，熟悉主流框架（Spring Boot、MyBatis 等）；
+熟悉 若依（RuoYi）框架 的使用与搭建，能进行二次开发；
+能 独立编写接口 并与前端（Vue）团队对接联调；
+能撰写 详细的接口文档；
+能理解产品 业务需求，并可使用 墨刀 或类似工具制作原型图；
+具备 数据库设计能力，能独立设计表结构、主外键关系与索引优化；
+熟悉 Vue2 / Vue3 前端框架，能进行简单的页面联调或组件修改。
+任职要求:
+本科以上学历，软件专业，一年以上工作经历。
+加分项：（非必须，但有更优先）
+有国外支付接口对接经验（Stripe、PayPal等）；
+有国外快递或物流API对接经验（如澳洲本地运输平台）；
+熟悉Google Maps API 或其他国外地图服务的集成；
+有中英双语系统开发经验（国际化 i18n）；
+具备SaaS多租户权限系统 或加盟商分权架构开发经验；
+曾参与 电商、租赁、商城类平台项目；
+熟悉 移动端App开发，能使用 HBuilderX + UniApp 开发并成功打包上线（安卓 / iOS）。",2025-10-28 11:07:33,您好，我目前有一年多的工作经验。我掌握 Java 开发技术，熟悉 Spring Boot、MyBatis 等主流框架，能独立编写接口并与 Vue 前端团队对接联调。我具备数据库设计能力，能进行表结构设计与索引优化。我了解墨刀原型工具，能进行简单功能分析。我了解 Vue3 前端框架，能进行页面联调或组件修改。我熟悉 Docker 容器化部署，能完成 CI/CD 流程。针对岗位要求，我具备扎实的后端开发能力。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+77,刚刚活跃,java初级开发工程师（2年+）+五险一金+双休,6-10K,6000,10000,1-3年,https://www.zhipin.com/job_detail/41507541fa41908e03xy0961GVBV.html,大专,武汉,合肥英泽信息科技,100-499人,计算机软件,福利信息未提供,"Java, SpringCloud, MySQL, Spring Boot, Spring","岗位职责:
+1、负责企业级应用系统的后端开发，参与需求分析、系统设计、代码实现及维护
+2、基于Spring Boot框架搭建高可用、高性能的服务端架构，完成核心模块开发;
+
+职位要求：
+1、统招专科以上学历，计算机相关专业优先；
+2、有用友项目经验优先；",2025-10-28 11:07:38,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Docker、Linux 运维、前后端协作等技术，熟悉 Spring Cloud Alibaba 技术栈，具备分布式系统开发经验。对于用友项目，我了解过相关技术，愿意深入学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+78,刚刚活跃,2026届Java实习生（武汉）,6-9K,6000,9000,1年以内,https://www.zhipin.com/job_detail/f21fbe4b33f6b1ed03xy0tu9EVRQ.html,本科,武汉,信雅达科技股份,1000-9999人,计算机软件,福利信息未提供,"Java, Tomcat, MySQL, MyBatis, Redis, 金融银行, Spring, Oracle","1.	熟悉Java开发语言；
+2.	熟悉常用的软件开发环境和编程工具；
+3.	熟悉Oracle数据库；
+4.	具有较强的工作责任心和团队合作精神；
+5.	较强的学习能力和沟通能力。
+
+3个月以上的全勤实习，结束有转正的机会",2025-10-28 11:07:39,您好，我目前有一年多的工作经验。我熟悉Java开发语言，掌握Spring、MyBatis、Redis、Docker等技术，能熟练使用IDEA、Git、JMeter等工具。我对MySQL有深入理解，了解索引、事务等优化方法。我了解Oracle数据库，具备较强的学习能力与团队合作精神。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+79,刚刚活跃,JAVA开发工程师（校招）,7-10K,7000,10000,在校/应届,https://www.zhipin.com/job_detail/77ff9379b73a86a603x73t-8GVRY.html,本科,武汉,博科国信,100-499人,医疗器械,福利信息未提供,"Java, SpringCloud, Spring","职位描述：
+（1）负责医疗业务场景的数据整合、数仓建模等ETL工作。
+（2）负责全生命周期的数据治理工作。
+（3）参与公司数据治理平台工具的研发工作。
+（4）参与元数据管理、数据血缘、数据质量、数据标准等治理方案落地。
+
+任职要求
+（1）本科及以上学历，计算机、数学、通信等相关专业。
+（2）熟悉ODS、DWD、DWS、DIM等数据分层模型设计与脚本开发。
+（3）熟悉Java、Python等常用编程语言。
+（4）熟悉ORM，SpringBoot,SpringCloud，Flask等技术框架。
+（5）熟练使用Apache Doris 、FlinkCDC、Kafka等大数据组件。
+（6）熟练编写数据采集脚本（Oracle/MySQL/Doris），保障数据完整性与一致性。
+（7）熟悉医疗行业数据的采集、清洗、建模与标准化流程。
+（8）责任心强，具备良好的问题分析及解决能力，团队合作能力。",2025-10-28 11:07:45,您好，我目前有一年多的工作经验。我熟悉 Java 基础、Spring Boot、MyBatis、Redis、Docker 等技术，具备良好的编码习惯和系统设计能力。我了解 Apache Doris、FlinkCDC、Kafka 等大数据组件，愿意学习并掌握相关技术。岗位要求的数据整合与治理工作，我有扎实的开发基础和项目经验支撑。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+80,刚刚活跃,java初级开发工程师,8-10K,8000,10000,1-3年,https://www.zhipin.com/job_detail/8612a28e41a3d7e603xy0964FFNR.html,本科,武汉,华信永道,500-999人,计算机软件,福利信息未提供,"Java, MySQL, Spring, 出差","岗位职责：
+1.根据安排，按时完成需求分析、功能设计、程序设计、数据模型设计、接口设计；  
+2.根据安排，按照需求文档、设计文档，按时完成功能开发；  
+3.完成领导交办的临时工作。
+任职要求：
+1.本科以上学历，1-3年工作经验
+2.具备扎实的Java开发功底，熟悉springboot框架，了解微服务开发概念
+3.熟悉VUE或react前端开发框架
+4.掌握基本的数据库知识，能够编写SQL语句
+5.能够熟练使用IDEA开发工具
+6.具备良好的沟通能力
+7.能够根据项目安排进行出差
+8.具备主动学习能力，且学习理解能力强",2025-10-28 11:07:46,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、IDEA等技术，熟悉微服务架构和前后端协作。我了解Vue3前端开发框架，能够完成接口对接与文档生成。对于岗位要求的数据库知识和沟通能力，我有扎实的实践基础。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+81,刚刚活跃,Java工程师,6-10K,6000,10000,经验不限,https://www.zhipin.com/job_detail/a12551a6b3c62b7f03xy3dm8E1VY.html,大专,武汉,武汉炬有智能网络科技,100-499人,人工智能,福利信息未提供,"Java, MySQL, Spring","岗位职责:
+1.负责Java平台的软件设计、开发与维护；
+2.进行Java应用的单元测试和功能开发；
+3.与团队合作，确保技术实现符合要求；
+4.对现有系统进行优化，提高系统性能和稳定性；
+5.解决软件开发过程中的技术问题。
+
+任职要求：
+1.具有扎实的Java编程基础和丰富的实践经验；
+2.熟悉Java开发框架，能够使用Spring等主流开发框架；
+3.熟悉数据库操作，具有良好的数据库设计能力；
+4.具备良好的算法基础，能够处理相关开发任务；
+5.具有良好的问题分析和解决能力，能够独立进行任务分解和实施。地址：武汉市洪山区兆富国际1106",2025-10-28 11:07:48,您好，我目前有一年多的工作经验。我掌握Java基础、Spring、Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉分布式系统设计与优化，具备良好的算法基础和问题解决能力。我了解Linux服务器运维与CI/CD流程，能够独立完成开发任务并保障系统稳定性。岗位要求的技术我基本都掌握，能够快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+82,刚刚活跃,JAVA管培生 (MJ000407),8-13K,8000,13000,在校/应届,https://www.zhipin.com/job_detail/4805ca569d874f3b03xz29-5E1JS.html,本科,武汉,扫呗,500-999人,互联网,福利信息未提供,"Java, Nginx, 物联网经验, 不接受居家办公, SpringCloud, Redis, Spring, ERP开发经验, Elasticsearch, MySQL, MyBatis, MongoDB, 架构设计经验, Oracle","【岗位职责】
+1、准确理解产品需求、交互文档或原型，进行技术开发；
+2、协助开发负责人完成相关工作；
+3、编写符合我司规范的，具有可维护性的代码；
+4、保持独立思考，面对开发问题，优先尝试自行解决。
+
+职位需求：
+1、2026届本科以上学历在校生，计算机、软件开发等相关专业；
+2、对软件开发工作感兴趣，学习能力较强，专业基础知识牢固，自我驱动力较强；
+3、有团队责任心，做事认真负责；
+4、每周至少5天出勤，毕业前实习3-6个月。",2025-10-28 11:07:50,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git、Vue3 等技术，能够独立完成后端开发与系统优化。我了解 Spring Cloud Alibaba 相关技术，具备分布式系统开发经验。对于岗位要求的 Java 后端开发技能，我有扎实的基础和实际项目经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+83,刚刚活跃,JAVA开发（HS-WH),9-11K,9000,11000,1-3年,https://www.zhipin.com/job_detail/ac690532b68efed403xy0t65ElVR.html,本科,武汉,东驰科技,100-499人,互联网金融,福利信息未提供,"Java, 分布式经验, 微服务经验, SpringCloud, MySQL, Redis, Dubbo, Spring","工作职责
+负责java软件端需求开发工作
+任职资格
+1. 熟悉springboot、springcloud开发；
+2.熟悉java问题排查和原因定位与解决；
+3.熟悉sql开发，以及性能优化；
+4.熟悉消息中间件、分布式缓存组件开发和问题排查，例如rabbitmq、redis；
+5.能够出差进行上线实施和现场问题排查；（出差最多的情况就是一年1-2次，每次1-2个月）",2025-10-28 11:07:52,您好，我目前有一年多的工作经验。我熟悉Spring Boot、Spring Cloud开发，掌握Java问题排查与解决能力，具备SQL开发与性能优化经验，了解Redis、RabbitMQ等分布式缓存与消息中间件的使用。我能够出差进行上线实施和现场问题排查。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+84,刚刚活跃,java初级开发工程师,4-8K,4000,8000,在校/应届,https://www.zhipin.com/job_detail/db0843f0da27385903d83dS1FFdY.html,本科,武汉,武汉聚龙时空,20-99人,计算机软件,福利信息未提供,"Java, C++, SpringCloud, MySQL, MyBatis","岗位职责：
+   1、完成上级安排的开发任务；
+   2、协助运维工程师完成软件运维开发工作。
+岗位要求：
+   1、统招本科及其以上，计算机科学、软件工程、地理信息系统等相关专业，有 
+      使用JAVA语言开发的项目经验；
+  2、精通Spring、Spring MVC、Mybatis等J2EE技术架构；熟悉hibernate、 
+       mybatis等主流orm框架；熟悉Spring Boot、 Spring Cloud等微服务技术；
+  3、熟练掌握Oracle/MySQL等主流数据库应用开发技术；
+  4、熟练使用JS/CSS/vue.js等前端技术，熟悉Git、SVN等版本控制工具；
+  5、软强的业务理解和接受能力，有需求分析和系统设计能力；有责任心、积极进取、有团队协作精神；
+  6、能适应阶段性出差。",2025-10-28 11:07:55,您好，我目前有一年多的工作经验。我掌握Spring、Spring MVC、MyBatis、Spring Boot、Spring Cloud等技术，熟悉MySQL数据库应用开发，了解Vue.js前端技术，熟练使用Git版本控制工具。我具备良好的业务理解能力和团队协作精神，能够快速上手项目并完成开发任务。针对岗位要求，我有相关项目经验，能够胜任Java后端开发工作。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+85,刚刚活跃,JAVA开发工程师,7-10K,7000,10000,1-3年,https://www.zhipin.com/job_detail/454d69d72e22d8a71nJ62tW-FlNS.html,本科,武汉,中信科集团-武汉虹旭,100-499人,信息安全,福利信息未提供,"Hibernate, Struts, Spring","岗位职责：
+1.参与软件需求调研，在技术经理的指导下进行项目系统架构设计，模块详细设计，功能编码和软件维护等工作；
+2.根据项目计划，完成开发相应的软件模块、单元测试以及协同其他小组的集成测试和联调；
+3.根据开发项目，编写开发过程中的项目技术文档，编写说明书；
+任职要求：
+1.计算机或相关专业，本科学历；
+2.熟练使用eclipse,tomcat等工具，能独立进行模块开发；
+3.有扎实的java基础，熟悉html、css、jsp、jquery、ajax、struts2、springMVC、spring、ibatis、mybatis等技术和框架，至少一年以上相关项目经验；
+4.掌握mysql、oracle、hbase等数据库操作者优先；
+5.熟悉linux操作系统常用命令；
+6.有较强的沟通能力、主动解决问题的能力，有强烈的责任感和良好的职业道德，及团队合作精神。",2025-10-28 11:07:58,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、MySQL、Redis、Docker、Git、Linux 等技术，熟悉前后端协作与接口文档生成。根据岗位要求，我了解 Eclipse、Tomcat 工具，具备模块开发能力，能独立完成开发任务。岗位要求的 HTML、CSS、JQuery、Struts2、IBatis、MyBatis 等技术，我均有实际应用经验。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+86,刚刚活跃,初级java开发工程师,9-12K,9000,12000,1-3年,https://www.zhipin.com/job_detail/3a13b8aafa9c126b03x_3di8ElFY.html,本科,武汉,武汉源启科技,100-499人,计算机软件,福利信息未提供,"Java, 分布式经验, 微服务经验, SpringCloud, MySQL, MyBatis, Spring","岗位职责：
+1.深入理解业务需求，独立进行系统新功能模块的设计与开发；
+2.负责方案讨论、技术调研，解决开发中的技术难题；
+3.负责系统架构设计的原型搭建、方案制定、技术选型，参与制定并落实开发计划，协助技术经理对项目进行进度、成本和质量管理 ，保证项目按时优质上线；
+4.负责系统框架和核心代码编写，分析并解决开发中遇到的问题，维护线上系统的稳定性；
+5.参与公共架构的持续优化满足部门业务快速发展的要求；
+6.协助技术经理提高团队成员的工作效率和质量，积极技术分享，与团队共同提升专业技能。
+	
+任职要求：
+1.2年以上Java开发经验，Java基础扎实，良好的编程素养，对代码美感有追求；
+2.熟练掌握Spring、sprinngboot、MyBatis-plus、Kafka、Redis、Netty等常用框架；
+3.深刻理解前后端分离，微服务架构理念，熟练使用Spring Cloud框架，了解Docker容器技术；
+4.熟练掌握MySQL、SQL Server、Oracle等主流数据库以及人大金仓等国产化数据库使用经验，有Jvm及SQL性能调优经验者优先；
+5.具有Linux下开发经验、熟练掌握Shell操作；有银河麒麟、鲲鹏-openEuler等国产操作系统开发部署经验者优先；
+6.了解持续集成及持续部署的概念及常用框架；
+7.具备系统调试、性能调优等技能，对疑难技术问题具备较强的排查能力；
+8.良好的服务意识，有强烈的责任心和使命感；
+9.具备较强的学习能力和解决问题能力，有较强的协调、沟通能力和团队精神，注重学习新技术，乐于分享；",2025-10-28 11:08:02,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis-Plus、Redis、MySQL、Docker、Git、Linux 等技术，熟悉微服务架构与前后端分离开发，了解 Spring Cloud Alibaba 与分布式事务。我对系统性能调优和问题排查有一定经验。岗位要求的 Kafka、SQL Server、Oracle 等技术我了解过，我会积极学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+87,刚刚活跃,java开发工程师,8-10K,8000,10000,1-3年,https://www.zhipin.com/job_detail/eff6d64d8f50f2fe03Jz3d60FlBS.html,本科,武汉,北大软件,1000-9999人,互联网,福利信息未提供,"Java, SpringCloud, MySQL, Spring","岗位职责
+1.参与项目需求调研、分析与方案设计；
+2.承担项目开发任务，按计划推进开发任务目标；
+3.完成代码编写、维护与优化；
+4.完成模块编码、功能自测；
+
+岗位要求
+1.大学本科及以上学历，计算机相关专业；
+2.熟练掌握JavaScript语言，熟练掌握Jquery、Miniui、extjs框架 。
+3.熟练使用echart等前端插件，了解openlayers等webgis前端开发类库。
+4.掌握.NET或者JAVA语言体系，熟悉使用Struts、hibernate、Spring、技术。
+5.熟悉SQL Server数据库；
+6.熟悉Javascript编程以及相关类库、具有ExtJs开发经验的优先；
+7.有良好的编程规范及开发技能；
+8.具有较强的责任心和沟通协作能力；
+9.热爱研发工作，学习能力强，具有分析、解决应用问题的能力；
+10.性格开朗，具有良好的团队精神和敬业精神，能较快较好融入项目开发小组。",2025-10-28 11:08:13,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、Docker、Git 等技术，熟悉 MySQL 与 Linux 服务器运维。我了解 JavaScript、jQuery、Vue3 等前端技术，能够完成前后端协作。岗位要求的 Spring 框架我熟练使用，对 ExtJs 了解过，愿意学习并掌握。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+88,刚刚活跃,Java中级工程师,7-12K,7000,12000,1-3年,https://www.zhipin.com/job_detail/040794cff66558d003N63ti1FVRU.html,本科,武汉,武汉视博云科技,20-99人,人工智能,福利信息未提供,"Java, Nginx, Tomcat, SpringCloud, MySQL, MyBatis, Redis, Spring","岗位职责：
+1. 负责公司产品和后台系统模块开发，包括需求分析，系统设计和编码实现，测试及优化。
+2. 负责完成核心代码编写，接口规范制定，业务功能实现与单元测试，系统维护。 
+
+ 任职要求：
+1.计算机相关专业，信息系统理论知识扎实；
+2.JAVA基础扎实，理解IO、多线程、JVM运行机制，掌握常见算法和设计模式；
+3.熟练使用Spring/SpringBoot框架，具备完整项目搭建开发经者优先；
+4.熟练HTML/JS/CSS，具备基本的前端开发调试能力，使用且熟悉前端框架者优先；
+5.熟练使用redis、mysql数据库，对数据库事务、锁机制等有较好的理解；
+6.熟悉Linux系统常用运维命令，熟悉java程序性能分析工具的使用;
+7.有良好的责任心、沟通能力、团队意识、质量意识，性格开朗，工作积极主动。",2025-10-28 11:08:16,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、Redis、MySQL、Docker、Linux 等技术，熟悉前后端协作与接口调试。岗位要求的 Java 后端开发技能我基本具备，能够快速上手项目开发。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+89,刚刚活跃,Java软件开发工程师,7-12K,7000,12000,经验不限,https://www.zhipin.com/job_detail/09b2eb62414588a503Zz2966FFdU.html,本科,武汉,南京海泰,500-999人,医疗健康,福利信息未提供,"全栈工程师, Java","工作职责：进行软件系统开发维护和项目现场技术支持
+
+
+基本要求：
+1、计算机、医学信息、软件工程、数学专业本科及以上学历
+2、掌握JAVA，了解至少一种主流数据库
+3、掌握HTML、JavaScript、CSS、JSP、jQuery等前台开发技术 
+
+
+
+  有医疗信息化行业工作经验优先考虑！",2025-10-28 11:08:17,您好，我目前有一年多的工作经验。我掌握Java基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git等技术，熟悉前后端协作与接口调试。我了解HTML、JavaScript、CSS、jQuery等前端技术，能够保障接口对接。岗位要求的Java和数据库技术我均具备，同时我对医疗信息化行业有学习兴趣，愿意快速上手。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+90,今日活跃,Java,8-13K,8000,13000,经验不限,https://www.zhipin.com/job_detail/7a5baa19526c9d9f03x_0965GVFY.html,本科,武汉,南京火灿渔物联网科技,0-20人,互联网,福利信息未提供,"Java, MySQL, Spring","岗位职责:
+1. 负责Java相关项目的开发与维护工作
+2. 参与系统设计，确保代码质量和系统稳定性
+3. 与团队合作，完成项目需求分析及模块划分
+
+任职要求：
+1. 具备良好的Java编程能力，能够独立完成模块开发
+2. 具有团队合作精神，能够与团队成员有效沟通
+3. 具备较强的问题分析及解决能力，能够快速适应新环境",2025-10-28 11:08:20,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring Boot、MyBatis、MySQL、Redis、Docker、Git、Linux 等技术，能够独立完成模块开发，并具备系统设计与优化能力。我熟悉前后端协作流程，能保障接口对接顺畅。岗位要求的 Java 后端开发相关技术，我均有所掌握。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+91,刚刚活跃,Java后端开发工程师（初级）,6-9K·13薪,6000,9000,1-3年,https://www.zhipin.com/job_detail/1b1200f29c83716103xy2t-8ElFR.html,本科,武汉,湖北特溯科技有限公司,20-99人,计算机服务,福利信息未提供,"Java, 不接受居家办公, MySQL, Spring","岗位职责：
+1、参与公司内业务代码的开发工作，确保代码质量。
+2、参与公司内系统的部署工作，负责日志查看和问题定位。
+3、跟踪和定位业务反馈的问题，快速排查和解决问题。
+4、参与需求分析与技术方案设计，与产品经理、前端工程师等协作，理解业务需求，参与后端技术方案的设计与评审。
+5、负责API设计与实现，包括设计、开发、单元测试和部署。
+6、编写技术文档，包括清晰的设计文档、接口文档、部署文档等。
+
+任职要求：
+1、本科及以上学历，计算机科学、软件工程等相关专业优先。
+2、至少1年Java开发经验，具备扎实的Java基础和良好的编程习惯。
+3、熟练掌握Java、Python和Shell语言，了解操作系统原理、网络原理和数据结构相关知识。
+4、深入理解MySQL，掌握索引优化、事务（ACID）、锁机制、复杂查询、数据库设计范式、反范式等。
+5、熟练掌握Linux/Unix常用命令，熟悉常用软件的部署安装。
+6、熟悉spring基本组件，熟悉aop和ioc理念。
+7、理解微服务的核心概念（服务拆分、独立部署、API网关、服务注册与发现、配置中心），精通Git，理解分支策略。
+8、注重代码可读性、可维护性，注重代码质量，熟悉代码规范和静态代码分析工具，具备基本的安全意识，了解常见Web安全漏洞及防护措施。
+9、对工作认真负责，遵守规章制度，具备良好的沟通能力和团队协作精神。",2025-10-28 11:08:21,您好，我目前有一年多的工作经验。我掌握Java、Spring Boot、MyBatis、Redis、MySQL、Linux、Git等技术，熟悉微服务架构和API设计，具备良好的代码规范和文档编写能力。我了解Spring Cloud Alibaba相关组件，能够进行服务拆分与治理。岗位要求的Java开发技能我均具备，同时我具备快速学习能力，对于未掌握的技术也愿意积极学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+92,刚刚活跃,java,7-12K,7000,12000,1-3年,https://www.zhipin.com/job_detail/dded1913e486a8160n1z09S9ElY~.html,本科,武汉,科码先锋,100-499人,电子商务,福利信息未提供,"搜索引擎技术, JavaScript, 服务器配置, Struts, Oracle","岗位职责：
+1. 基于Flink SQL引擎，支撑公司数据传输及计算
+2.根据产品及技术方案进行软件功能开发；
+3. 按照公司研发流水线要求完成软件的编码、调试、上线等工作；
+4. 配合SM积极参与任务分配及问题处理；
+
+任职要求：
+1、1至3年Java开发经验，熟悉JDK1.8及以上版本特性；
+2、掌握并有SpringCloud、SpringBoot、jdk版本升级经验；
+3、有数据清洗、数据报表相关经验优先；
+4、熟练掌握mysql数据库开发技术；
+7、对业务有很强的学习能力和理解能力，熟悉电子商务行业者优先。",2025-10-28 11:08:24,您好，我目前有一年多的工作经验。我掌握Java基础、SpringBoot、MyBatis、SpringCloudAlibaba、MySQL、Redis、Docker等技术，熟悉前后端协作与CI/CD流程。我了解Flink SQL相关知识，愿意学习并掌握该技术。岗位要求的Java开发能力与我的技术栈高度契合。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+93,刚刚活跃,Java开发工程师,8-12K,8000,12000,1-3年,https://www.zhipin.com/job_detail/0cd6c1e252df361403V529W8EFBS.html,本科,武汉,卓讯信息技术,100-499人,计算机软件,福利信息未提供,"Java, MySQL, Spring","岗位职责：
+1、 负责公司产品平台的架构设计，框架搭建；
+2、 参与制定公司产品平台的开发规范和实现标准；
+3、 负责公司产品平台的开发/升级/调优；
+4、 参与公司产品平台的功能创新和技术攻关；
+5、负责基于低代码的应用系统设计、开发和部署，满足业务需求
+
+任职要求：
+1、 统招本科或以上学历，计算机相关专业；
+2、 具备2年以上平台系统设计与开发的相关⼯作经验；
+3、 熟悉Java/Go后端开发语⾔，熟练使⽤常⽤开发框架，包括Java/Go的微服务开发体系；
+4、 熟悉Html/ES5/Vue前端开发语⾔和框架，熟悉Vue的常⽤UI组件；
+5、 熟悉各类关系型/⾮关系型数据库/消息中间件的应⽤与开发；
+6、 熟悉分布式服务架构，分布式缓存，能够实现⾼并发性、⾼可⽤性系统；
+7、 熟悉应⽤Linux环境，具备开发运维⼀体化思想，能够熟练使⽤K8s部署环境；
+8、 具备良好的沟通能⼒与团队协作能⼒，有责任⼼；
+9、 具备优秀的项⽬管理与团队建设能⼒者优先。",2025-10-28 11:08:26,您好，我目前有一年多的工作经验。我掌握Java后端开发技术，熟悉Spring Boot、MyBatis、Redis、MySQL、Docker等，了解Vue3、Element-UI等前端技术，能够进行前后端协作。我具备微服务架构经验，熟悉Nacos、Sentinel、Seata等组件，能够完成系统设计与调优。我对Linux环境有实际操作经验，能够完成部署与运维工作。岗位要求的技术我基本都有涉及，对于K8s我了解过，如果有需要我会快速学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。
+94,刚刚活跃,Java开发工程师,7-9K,7000,9000,1-3年,https://www.zhipin.com/job_detail/81f29369cded50fd1H1539y0FFpR.html,本科,武汉,同步远方,100-499人,医疗健康,福利信息未提供,"Java, Hibernate, Tomcat, 不接受居家办公, MySQL, SQL Server, Spring, Oracle","岗位职责：
+1、负责公司产品的开发，独立或与团队合作，按时保质完成软件开发项目； 
+2、根据项目的需求说明文档，完成软件的编程、调试和单元测试工作； 3、总结和编写相关的开发文档；并能够根据规划需求制定相关技术与产品的解决方案。
+ 任职资格： 
+1、计算机相关专业本科及以上学历，3~5年实际开发经验；
+2、精通Java语言，熟悉J2EE体系架构及MVC模式，熟悉Web Service、XML、J2EE结构，熟练掌握Structs、Spring、Hibernate等技术和框架进行开发； 熟悉springcloud微服务架构。 
+3、熟悉Weblogic、Jboss、Tomcat中任一种应用服务器的开发、部署和相关配置优化；
+ 4、熟悉HTML、CSS、JS、Ajax等前端开发技术能熟练编写代码并有良好的注释以及文档编写习惯； 熟悉业界主流前端框架，如JQuery、Bootstrap，requirejs等； 
+5、熟悉使用Oracle、SQL server等至少一种大型关系数据库，熟悉Oracle语言；
+ 6、有vue及小程序开发经验者优先。 
+7、熟悉LINUX操作系统及相关技术者优先。",2025-10-28 11:08:29,您好，我目前有一年多的工作经验。我掌握 Java 基础、Spring、Spring Boot、MyBatis、Redis、MySQL、Docker、Git、Linux 等技术，熟悉微服务架构与分布式系统设计，具备前后端协作能力。岗位要求的 Java 后端开发技能我基本覆盖，对 Spring Cloud Alibaba 有实际项目经验。对于 Weblogic、Jboss 等应用服务器，我了解过相关技术，愿意快速学习。综上所述，我相信我能够快速融入团队，为贵公司贡献我的开发能力。

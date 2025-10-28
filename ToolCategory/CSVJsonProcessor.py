@@ -233,12 +233,18 @@ class CSVJsonProcessor:
             mask = pd.Series([True] * len(df))
             for field, value in conditions.items():
                 if field in df.columns:
-                    # 对于日期字段的部分匹配
+                    # print(f"[DEBUG] 过滤字段: {field}, 值: {repr(value)}")
                     if field == 'created_at' and isinstance(value, str):
-                        mask = mask & df[field].str.startswith(value)
+                        mask &= df[field].str.startswith(value)
+                    elif value is None:
+                        mask &= df[field].isna() | (df[field].astype(str).str.strip() == "")
                     else:
-                        mask = mask & (df[field] == value)
-            df = df[mask]
+                        mask &= df[field] == value
+                else:
+                    print(f"[WARN] 字段 {field} 不存在于表中")
+            df = df[mask.values]
+            # print(f"[DEBUG] 过滤后剩余 {len(df)} 条记录")
+            # df = df[mask]
 
         return len(df)
 

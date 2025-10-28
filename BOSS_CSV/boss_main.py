@@ -81,8 +81,14 @@ is_less= False
 cur_markdown_num=0
 limit_markdown_num=20
 limit_load_num=15*7
+today_str = datetime.now().strftime('%Y-%m-%d')
 for i in range(3):
-
+    count_no_deliver = processor.count_records("job_deliver", conditions={"created_at": today_str, "AI结果": None})
+    count_deliver = processor.count_records("job_deliver", conditions={"created_at": today_str})
+    print(f"数据的总数{count_deliver}\n今日已投递{count_deliver-count_no_deliver}\n今日未投递{count_no_deliver}")
+    if count_deliver-count_no_deliver>=limit_markdown_num:
+        print(f"已投递{limit_markdown_num}条停止生成投递")
+        break
     success=extract_job_descriptions_and_urls()
 
     start_index = 0
